@@ -47,17 +47,18 @@ https://github.com/jendave/rise-and-shiningstar/releases/latest/download/module.
 
 * If the *Rise & Shiningstar* scene has a broken thumbnail, right-click on the menu item and select `Generate Thumbnail Image`.
 
-## Credits
-
-* [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) by [Tavon Gatling](https://www.gatling.xyz/author/tavon/) used with permission from the author.
-* Module code by David Hudson and licensed for use under the use under the [MIT license](https://opensource.org/license/mit/).
-
 ## Contact
 
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
 * [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
+* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
 * [GitHub Repository](https://github.com/jendave/rise-and-shiningstar)
 * [Itch.io](https://jendave.itch.io/)
+
+## Credits
+
+* [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) by [Tavon Gatling](https://www.gatling.xyz/author/tavon/) used with permission from the author.
+* Module code by David Hudson and licensed for use under the use under the [MIT license](https://opensource.org/license/mit/).
 
 ## Acknowledgements
 
@@ -86,6 +87,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Ancient Wonders](https://foundryvtt.com/packages/ancient-wonders)
 * [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 * [Roll Table Importer](https://foundryvtt.com/packages/roll-table-importer)
+* [Ironsworn Impacts](https://foundryvtt.com/packages/ironsworn-impacts)
 
 ### [Itch.io](https://jendave.itch.io/) Resources
 
