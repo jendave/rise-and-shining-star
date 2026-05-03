@@ -4,7 +4,7 @@
 
 ## [1.0.4](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-05-xx)
 
-* Enable Quick-Start Adventure setup.
+* Enable Quick-Start Adventure setup for v14.
 * Convert all graphic files to WEBP.
 
 ## [1.0.3](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-02-26)
