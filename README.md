@@ -38,6 +38,18 @@ https://github.com/jendave/rise-and-shiningstar/releases/latest/download/module.
 
 ### Install Adventure Module
 
+## Quickstart Adventure
+
+* In the Admin screen, on the `Game World` tab, click on `Create World`.
+* Choose `Rise & Shiningstar` from the left clumn of Adventures.
+* Choose `Ironsworn & Starforged` from the list of systems on the right.
+* Give you world a name in the `World Title` field.
+* Click `Continue`.
+* The world will start with the `Rise & Shiningstar` adventure installed.
+
+## Manual Installation
+
+* Start your World.
 * Open the `Rise & Shiningstar` compendium.
 * Open the `Rise & Shiningstar` adventure.
 * Click on `Import Adventure`.
