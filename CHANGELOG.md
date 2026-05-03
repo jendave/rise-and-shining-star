@@ -2,6 +2,10 @@
 
 [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 
+## [1.0.4](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-05-xx)
+
+* Enable Quick-Start Adventure setup.
+
 ## [1.0.3](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-02-26)
 
 * Fix background image for scene.

@@ -59,5 +59,13 @@
         "compatibility": {}
       }
     ]
+  },
+  "quickstart": {
+    "adventures": {"foundry-ironsworn": {"uuid": "Compendium.rise-and-shining-star.rise-and-shiningstar.Adventure.zZI50ig6UYmSfDc0"}},
+    "postImport": true,
+    "world": {
+        "background": "modules/rise-and-shining-star/assets/space-nebula.webp",
+        "cover": "modules/rise-and-shining-star/assets/cover-thumbnail.webp"
+    }
   }
 }
