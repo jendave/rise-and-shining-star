@@ -2,7 +2,7 @@
 
 [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 
-## [1.1.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-05-03)
+## [1.1.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-07-10)
 
 * Create build process.
 * Create compendiums from JSON.
