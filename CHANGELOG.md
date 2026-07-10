@@ -2,6 +2,11 @@
 
 [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 
+## [1.1.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-05-03)
+
+* Create build process.
+* Create compendiums from JSON.
+
 ## [1.0.5](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-05-03)
 
 * Fix regression in v13 for the scene background.

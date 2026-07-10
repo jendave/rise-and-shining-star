@@ -1,0 +1,3566 @@
+{
+  "name": "Rise & Shiningstar",
+  "img": "modules/rise-and-shining-star/assets/space-nebula.webp",
+  "caption": "<p style=\"color:cyan\">Rise &amp; Shiningstar - Made for Ironsworn: Starforged by Tavon Gatling</p>",
+  "description": "<p>An Adventure Made For Ironsworn: Starforged.</p><p>You are being drawn to a settlement named Shiningstar. You don't know much else about the settlement yet, but whatever draws you to it has made you swear a vow.</p><p>I must warn you, though. If you keep going, you're going to encounter death. Lots of it. None of it is pretty. Most of it is sad. It's what the kids these days call \"nightmare fuel.\"</p><p>And it will fight back.</p>",
+  "sort": 0,
+  "actors": [
+    {
+      "name": "Shiningstar Chimera",
+      "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+      "type": "foe",
+      "system": {
+        "dfid": ""
+      },
+      "prototypeToken": {
+        "name": "Shiningstar Chimera",
+        "texture": {
+          "src": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "displayName": 0,
+        "actorLink": false,
+        "width": 1,
+        "height": 1,
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": -1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 0,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "CTU9A48mP9hIGp8I",
+      "items": [
+        {
+          "_id": "76875e7c0fed5133",
+          "type": "progress",
+          "name": "Chimera",
+          "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+          "system": {
+            "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Shambling corpses given unnatural life</p>\n<p>Adorned in vines and flowers</p>\n<p class=\"nogrow\">Yellow eyes and brown-green skin</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Consume all moisture</p>\n<p class=\"nogrow\">Bask in the light</p>\n<p class=\"nogrow\">Propagate</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Approach moisture and light</p>\n<p class=\"nogrow\">Feed, with disregard to consequences and safety</p>\n</div>\n</div>\n<p>The only evidence of a mass casualty aboard Shiningstar. This Chimera is the amalgamation of many trapped individuals. Parts of it scream constantly, horrific and throaty. Other parts reach out with broken and mangled limbs as if grasping for anything that would help them. But it is far too late. Multiple vines actively move through the chaos, as if tentacles of a long-forgotten cosmic entity. If it can find a place with lots of natural light, it will remain motionless, transfixed as if finally at peace. Moisture is the only thing that can coax them from this reverie. However, if it's dark, the screaming, moaning, gurgling mass roams the halls of Shiningstar looking to feed and ease its suffering.</p>",
+            "rank": 3,
+            "current": 0,
+            "completed": false,
+            "subtype": "progress",
+            "starred": false,
+            "hasTrack": true,
+            "hasClock": false,
+            "clockTicks": 0,
+            "clockMax": 4
+          },
+          "effects": [],
+          "folder": "9a33d248aee84d89",
+          "sort": 0,
+          "flags": {
+            "foundry-ironsworn": {
+              "dsid": "npc.variant:starforged/sample_npcs/risen.chimera"
+            }
+          },
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755794869220
+          },
+          "ownership": {
+            "default": 0
+          }
+        }
+      ],
+      "effects": [],
+      "flags": {
+        "foundry-ironsworn": {
+          "dsid": "npc.variant:starforged/sample_npcs/risen.chimera"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.foundry-ironsworn.foeactorssf.Actor.b85e406c59263fa0",
+        "duplicateSource": "Actor.IaxdNg0W6QA7qgaY",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1755723717764,
+        "modifiedTime": 1777799858238,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "sort": 100000,
+      "_id": "rZVks9wfQxoLeOZL",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shiningstar Risen",
+      "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+      "type": "foe",
+      "system": {
+        "dfid": ""
+      },
+      "prototypeToken": {
+        "name": "Shiningstar Risen",
+        "texture": {
+          "src": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "displayName": 0,
+        "actorLink": false,
+        "width": 1,
+        "height": 1,
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": -1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 0,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "CTU9A48mP9hIGp8I",
+      "items": [
+        {
+          "_id": "c67ac5f0290a6685",
+          "type": "progress",
+          "name": "Shiningstar Risen",
+          "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+          "system": {
+            "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Shambling corpses given unnatural life</p>\n<p>Adorned in vines and flowers</p>\n<p class=\"nogrow\">Yellow eyes and brown-green skin</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Consume all moisture</p>\n<p class=\"nogrow\">Bask in the light</p>\n<p class=\"nogrow\">Propagate</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Approach moisture and light</p>\n<p class=\"nogrow\">Feed, with disregard to consequences and safety</p>\n</div>\n</div>\n<p>Shiningstar Risen can have Troublesome or Dangerous ranks.</p>\n<p>The Risen on Shiningstar are different from what you may be used to. These Risen&nbsp;<em>crave</em> the light.<br><br>Most of them are crawling with pests and every single one of them has a vine somewhere. Sometimes it's through the eye socket, other times it seems to have replaced its tongue. On most, it's snaking around whatever remains of its body.<br><br>They smell vaguely of soil and mud. It's as if they were created in a forest and were set loose upon the settlement. Not to mention each and every last one is desiccated. Not just of blood, but of all moisture. For this reason, they are mostly skin and bones. A few are \"decorated\" &ndash; for lack of a better term &ndash; in dead or dying flowers or leaves.<br><br>If you watch one feed upon an unlucky someone's remains, they gain a sense of life again. They desiccate in return, draining them of everything they have. Their vines begin to pump as if an artery or vein. Some try to speak, try to warn of what happened, but&ndash;<br><br>Just like that, the \"life\" dries up and they return to shambling about. And now they have a new friend to join them.<br><br>Will you join them next?</p>",
+            "rank": 2,
+            "current": 0,
+            "completed": false,
+            "subtype": "progress",
+            "starred": false,
+            "hasTrack": true,
+            "hasClock": false,
+            "clockTicks": 0,
+            "clockMax": 4
+          },
+          "effects": [],
+          "folder": "9a33d248aee84d89",
+          "sort": 0,
+          "flags": {
+            "foundry-ironsworn": {
+              "dsid": "npc:starforged/sample_npcs/risen"
+            }
+          },
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755794846560
+          },
+          "ownership": {
+            "default": 0
+          }
+        }
+      ],
+      "effects": [],
+      "sort": 200000,
+      "flags": {
+        "foundry-ironsworn": {
+          "dsid": "npc:starforged/sample_npcs/risen"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.foundry-ironsworn.foeactorssf.Actor.818f810ca4e421a1",
+        "duplicateSource": "Actor.P0Xh6gdpiBmfN6Lu",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1755723808899,
+        "modifiedTime": 1777799858238,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_id": "3CTesFOOf4uuK7LT",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shiningstar",
+      "img": "systems/foundry-ironsworn/assets/locations/settlement-deepspace.webp",
+      "type": "location",
+      "prototypeToken": {
+        "actorLink": true,
+        "name": "Shiningstar",
+        "displayName": 0,
+        "width": 1,
+        "height": 1,
+        "texture": {
+          "src": "systems/foundry-ironsworn/assets/locations/settlement-deepspace.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 2,
+          "scaleY": 2,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": -1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 1,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "CTU9A48mP9hIGp8I",
+      "_id": "95AQDbIZRpRmyn5i",
+      "system": {
+        "description": "<p><strong>Exterior First look:</strong> The Shiningstar Settlement looks like it can dwarf a small moon. A metallic whale floating through space, forged from iron and steel with jagged corners and random lumps serving various unknown purposes. On the side in fading white is the word SHININGSTAR.</p>\n<p>There is a docking bay to the side, though you&rsquo;re not sure if it&rsquo;s fully operational.</p>\n<p><strong>Interior First look: </strong>It&rsquo;s clear that Shiningstar is more than just a research and medical facility. From the moment you step inside, Shiningstar's original purpose and history becomes evident. A map and directory show that it could house well over a few thousand people if it needed to. You're quite sure it did during its time as a generation ship.</p>\n<p>The lights within flicker sporadically while a garbled automated message plays. You can barely make out, &ldquo;WELCOME TO SHININGSTAR.&rdquo; Claw marks deform the entrance as if something wanted to get out. The pungent smell of decay is so strong you can taste it. Splattered blood and debris has turned this derelict into a wasteland. Corpses litter the ground... And yet, some of them are walking, shambling around aimlessly.</p>\n<p>Shiningstar has been overtaken by Risen.</p>\n<p><strong>Authority:</strong> None</p>\n<p><strong>Population:</strong> Unknown</p>\n<p><strong>Initial contact:</strong> Derelict</p>\n<p><strong>Settlement projects:</strong> Research</p>\n<p><strong>Settlement trouble:</strong> Hostile lifeforms</p>",
+        "subtype": "settlement",
+        "klass": "deep space"
+      },
+      "items": [],
+      "effects": [],
+      "sort": 150000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1755760568777,
+        "modifiedTime": 1777799858238,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shiningstar Risen (Troublesome)",
+      "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+      "type": "foe",
+      "system": {
+        "dfid": ""
+      },
+      "prototypeToken": {
+        "name": "Shiningstar Risen",
+        "texture": {
+          "src": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "displayName": 0,
+        "actorLink": false,
+        "width": 1,
+        "height": 1,
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": -1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 0,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "CTU9A48mP9hIGp8I",
+      "items": [
+        {
+          "_id": "c67ac5f0290a6685",
+          "type": "progress",
+          "name": "Shiningstar Risen (Troublesome)",
+          "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+          "system": {
+            "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Shambling corpses given unnatural life</p>\n<p>Adorned in vines and flowers</p>\n<p class=\"nogrow\">Yellow eyes and brown-green skin</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Consume all moisture</p>\n<p class=\"nogrow\">Bask in the light</p>\n<p class=\"nogrow\">Propagate</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Approach moisture and light</p>\n<p class=\"nogrow\">Feed, with disregard to consequences and safety</p>\n</div>\n</div>\n<p>Shiningstar Risen can have Troublesome or Dangerous ranks.</p>\n<p>The Risen on Shiningstar are different from what you may be used to. These Risen&nbsp;<em>crave</em> the light.<br><br>Most of them are crawling with pests and every single one of them has a vine somewhere. Sometimes it's through the eye socket, other times it seems to have replaced its tongue. On most, it's snaking around whatever remains of its body.<br><br>They smell vaguely of soil and mud. It's as if they were created in a forest and were set loose upon the settlement. Not to mention each and every last one is desiccated. Not just of blood, but of all moisture. For this reason, they are mostly skin and bones. A few are \"decorated\" &ndash; for lack of a better term &ndash; in dead or dying flowers or leaves.<br><br>If you watch one feed upon an unlucky someone's remains, they gain a sense of life again. They desiccate in return, draining them of everything they have. Their vines begin to pump as if an artery or vein. Some try to speak, try to warn of what happened, but&ndash;<br><br>Just like that, the \"life\" dries up and they return to shambling about. And now they have a new friend to join them.<br><br>Will you join them next?</p>",
+            "rank": 1,
+            "current": 0,
+            "completed": false,
+            "subtype": "progress",
+            "starred": false,
+            "hasTrack": true,
+            "hasClock": false,
+            "clockTicks": 0,
+            "clockMax": 4
+          },
+          "effects": [],
+          "folder": "9a33d248aee84d89",
+          "sort": 0,
+          "flags": {
+            "foundry-ironsworn": {
+              "dsid": "npc:starforged/sample_npcs/risen"
+            }
+          },
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755794821101
+          },
+          "ownership": {
+            "default": 0
+          }
+        }
+      ],
+      "effects": [],
+      "sort": 200000,
+      "flags": {
+        "foundry-ironsworn": {
+          "dsid": "npc:starforged/sample_npcs/risen"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.foundry-ironsworn.foeactorssf.Actor.818f810ca4e421a1",
+        "duplicateSource": "Actor.3CTesFOOf4uuK7LT",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1755794711634,
+        "modifiedTime": 1777799858238,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_id": "L1VPOFFdBb19mJi3",
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "combats": [],
+  "items": [
+    {
+      "name": "Encounter Clock (4 Segments)",
+      "type": "progress",
+      "_id": "mReUoJ1kDJUOD4cN",
+      "img": "icons/svg/clockwork.svg",
+      "system": {
+        "description": "<p data-pm-slice=\"1 1 []\">If you want to definitely include combat &ndash; at least once &ndash; I would suggest adding an Encounter Clock. It's a specialized version of a Tension Clock. (p. 238)</p>\n<p>To do this, create a Clock with 4 segments at the beginning of the expedition. To encounter slightly less Risen, use 6 or 8 segments. You may still use this Clock to @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} as normal.</p>\n<p>Every time you mark progress on the expedition, you must fill segments equal to the value of the stat rolled. For instance, if you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} +wits, and your Wits was 2, you would fill in 2 segments of the Encounter Clock, regardless of any other modifiers to the roll. Since you'll know how full a Clock is, you can better plan for which stat to use when progressing and accommodate how many segments to fill.</p>\n<p>This will require some fictional framing, however. Explain in the fiction why your best stat may not be as useful. For instance, if your Edge is your best stat but you are forced to do another, you can frame it as needing to make a plan (wits) or hiding (shadow).</p>\n<p>If you burned momentum, instead do not add the value. You've bought yourself some time.</p>\n<p>Whenever you fill a Clock, trigger an encounter. If you overfilled the Clock, start a new one and either ignore the remainder (less encounters) or add the remainder to the new clock (more encounters).</p>\n<p>Pick an encounter from the Encounter on Shiningstar oracle below, roll a d6, or use the value of the action die that triggered the completed Clock.</p>\n<p>@UUID[RollTable.eDHmpoWTGSVexxuN]{Encounter on Shiningstar}</p>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "bond",
+        "starred": false,
+        "hasTrack": false,
+        "hasClock": true,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "effects": [],
+      "folder": "BdSOrj88oRvSFlVS",
+      "sort": 100000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1730000676402,
+        "modifiedTime": 1777799858269,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Encounter Clock (6 Segments)",
+      "type": "progress",
+      "img": "icons/svg/clockwork.svg",
+      "system": {
+        "description": "<p data-pm-slice=\"1 1 []\">If you want to definitely include combat &ndash; at least once &ndash; I would suggest adding an Encounter Clock. It's a specialized version of a Tension Clock. (p. 238)</p>\n<p>To do this, create a Clock with 4 segments at the beginning of the expedition. To encounter slightly less Risen, use 6 or 8 segments. You may still use this Clock to @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} as normal.</p>\n<p>Every time you mark progress on the expedition, you must fill segments equal to the value of the stat rolled. For instance, if you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} +wits, and your Wits was 2, you would fill in 2 segments of the Encounter Clock, regardless of any other modifiers to the roll. Since you'll know how full a Clock is, you can better plan for which stat to use when progressing and accommodate how many segments to fill.</p>\n<p>This will require some fictional framing, however. Explain in the fiction why your best stat may not be as useful. For instance, if your Edge is your best stat but you are forced to do another, you can frame it as needing to make a plan (wits) or hiding (shadow).</p>\n<p>If you burned momentum, instead do not add the value. You've bought yourself some time.</p>\n<p>Whenever you fill a Clock, trigger an encounter. If you overfilled the Clock, start a new one and either ignore the remainder (less encounters) or add the remainder to the new clock (more encounters).</p>\n<p>Pick an encounter from the Encounter on Shiningstar oracle below, roll a d6, or use the value of the action die that triggered the completed Clock.</p>\n<p>@UUID[RollTable.eDHmpoWTGSVexxuN]{Encounter on Shiningstar}</p>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "bond",
+        "starred": false,
+        "hasTrack": false,
+        "hasClock": true,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "effects": [],
+      "folder": "BdSOrj88oRvSFlVS",
+      "sort": 200000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": "Item.mReUoJ1kDJUOD4cN",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1755795553644,
+        "modifiedTime": 1777799858269,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_id": "X3U7axL7F3ZSf6Or",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Encounter Clock (8 Segments)",
+      "type": "progress",
+      "img": "icons/svg/clockwork.svg",
+      "system": {
+        "description": "<p data-pm-slice=\"1 1 []\">If you want to definitely include combat &ndash; at least once &ndash; I would suggest adding an Encounter Clock. It's a specialized version of a Tension Clock. (p. 238)</p>\n<p>To do this, create a Clock with 4 segments at the beginning of the expedition. To encounter slightly less Risen, use 6 or 8 segments. You may still use this Clock to @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} as normal.</p>\n<p>Every time you mark progress on the expedition, you must fill segments equal to the value of the stat rolled. For instance, if you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} +wits, and your Wits was 2, you would fill in 2 segments of the Encounter Clock, regardless of any other modifiers to the roll. Since you'll know how full a Clock is, you can better plan for which stat to use when progressing and accommodate how many segments to fill.</p>\n<p>This will require some fictional framing, however. Explain in the fiction why your best stat may not be as useful. For instance, if your Edge is your best stat but you are forced to do another, you can frame it as needing to make a plan (wits) or hiding (shadow).</p>\n<p>If you burned momentum, instead do not add the value. You've bought yourself some time.</p>\n<p>Whenever you fill a Clock, trigger an encounter. If you overfilled the Clock, start a new one and either ignore the remainder (less encounters) or add the remainder to the new clock (more encounters).</p>\n<p>Pick an encounter from the Encounter on Shiningstar oracle below, roll a d6, or use the value of the action die that triggered the completed Clock.</p>\n<p>@UUID[RollTable.eDHmpoWTGSVexxuN]{Encounter on Shiningstar}</p>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "bond",
+        "starred": false,
+        "hasTrack": false,
+        "hasClock": true,
+        "clockTicks": 0,
+        "clockMax": 8
+      },
+      "effects": [],
+      "folder": "BdSOrj88oRvSFlVS",
+      "sort": 300000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": "Item.X3U7axL7F3ZSf6Or",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1755795555900,
+        "modifiedTime": 1777799858269,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_id": "kxtrnSZzjJBlo4D9",
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "journal": [
+    {
+      "name": "Rise & Shiningstar",
+      "_id": "w3DZCSyKQ4Xmu260",
+      "pages": [
+        {
+          "sort": 100000,
+          "name": "The Adventure Begins",
+          "type": "text",
+          "_id": "qAYTNpbPoSZwCzz8",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<img src=\"modules/rise-and-shining-star/assets/rise-and-shiningstar-blog-header.webp\" alt=\"Rise &amp; Shiningstar - Made for Ironsworn: Starforged\" /><p><em>Adventure by </em><a href=\"https://www.gatling.xyz/author/tavon/\"><em>Tavon Gatling</em></a></p><p><em>FoundryVTT conversion by </em><a href=\"https://github.com/jendave\"><em>David Hudson</em></a></p><p>Ever need a quick adventure to introduce new players to Ironsworn: Starforged? Need something to drop into a current campaign to get things moving along?</p><p>Just wanna try out a new character and see how they play?</p><p>Well, I've got the solution for you: a quick and easy one-shot! Rise &amp; Shiningstar was made for pretty much all the reasons above, and probably a few more I don't know about. It's built to allow as much creative freedom in the adventure as possible, while still providing a fully fleshed-out adventure that doesn't require you to plan ahead or interpret every vague oracle result. Mix and match, drag and drop, plug and play as much as you want.</p><p>In terms of XP, this adventure allows you to complete one Vow and up to two Expeditions, as well as a chance to use multiple Connection Moves. There's also plenty of room for combat, or you can avoid or ignore it entirely.</p><p>Quoted text should be interpreted as part of the fiction. Think of a sassy, omniscient narrator (like from Baldur's Gate 3).</p><blockquote><p>Adventure doesn't like waiting. Are you ready?</p><p>I must warn you, though. If you keep going, you're going to encounter death. Lots of it. None of it is pretty. Most of it is sad. It's what the kids these days call \"nightmare fuel.\"</p><p>And it will fight back.</p><p>Who knows, you may make things worse. Can you live with that?</p><p>There's a hint in the title. Clever wordplay, if I do say so myself.</p><p>Last chance to turn around.</p><p>No?</p><p>Well, aren't you brave...</p></blockquote><p></p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755723215482,
+            "modifiedTime": 1755750108870,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 200000,
+          "name": "Quest Hooks",
+          "type": "text",
+          "_id": "Dcmd3PnsXwExoedv",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<h2>How are you dragged into this?</h2><p>Use the following Oracle table do roll a Quest hook. Or choose one from the table. Or, create one yourself.</p><p>@UUID[RollTable.4kgt4mIRp7sgdpkb]{Quest Hooks}</p><blockquote><p>You are being drawn to a settlement named Shiningstar. You don't know much else about the settlement yet, but whatever draws you to it should make you swear a vow.</p></blockquote>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755728297574,
+            "modifiedTime": 1755736814370,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 300000,
+          "name": "Setting up the Quest",
+          "type": "text",
+          "_id": "7gF8CVLwUFsu9xSY",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<h2>Suggested Rank</h2>\n<p>This one-shot will take about 30+ minutes depending on the length of the Vow, the milestones, and how well you roll. During playtesting, this adventure took me about an hour and half to complete after character creation.</p>\n<p>If you are introducing new players, want a quick one-shot, or just a quick adventure for your established setting, I suggest setting your vow to Dangerous. If you're pressed for time, set it to Troublesome.</p>\n<p>If you have more time, your vow should be no higher than Formidable.</p>\n<p>But, this is your adventure. If you want to turn this into something much larger, go for it! Share your experience with me!</p>\n<h2>Suggested Milestones</h2>\n<p>These are not set in stone, merely recommendations. Adjust by adding, removing, or changing as needed. Any milestones that are suggested only for higher ranks are denoted in parenthesis.</p>\n<ul>\n    <li>\n        <p>Discover a path to Shiningstar (Formidable+ if this utilizes a Scene Challenge or Combat)</p>\n    </li>\n    <li>\n        <p>Travel to the settlement (Dangerous+)</p>\n    </li>\n    <li>\n        <p>Defeat or evade any encounters</p>\n    </li>\n    <li>\n        <p>Figure out what is happening in Shiningstar</p>\n    </li>\n    <li>\n        <p>Save Shiningstar (Formidable+)</p>\n    </li>\n    <li>\n        <p>Complete your vow, if possible</p>\n    </li>\n</ul>\n<h2>Summary of my playtest for comparison</h2>\n<p>Skipped truths; 3 action rolls and 3 oracle rolls before @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course}; faced arrival mishap; Dangerous Expedition, got to 6 progress before my first Troublesome combat from the Encounter Clock... rolled so poorly another Troublesome encounter joined the fight; 21 total moves (action, suffer, oracle) for the combat. Made more progress, then completed expedition and vow. Minimal roleplaying.</p>\n<img src=\"modules/rise-and-shining-star/assets/black-hand-reaching-out.webp\" alt=\"Black hand reaching out\" />"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755728646884,
+            "modifiedTime": 1755737290320,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 400000,
+          "name": "What – and where – is Shiningstar?",
+          "type": "text",
+          "_id": "jWAk4MPnDG2XVXiE",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<blockquote><p>You know you need to head to Shiningstar, but the place – while familiar in name – is a mystery to you. You have no idea what this settlement is, or how to get there.</p><p>Good thing you're resourceful.</p></blockquote><h2>Locate Resources</h2><ul><li><p>Can you find someone with more knowledge about this? (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection})</p></li><li><p>Do you already know someone who has more knowledge about this? (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel}/@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} + @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.141aec8b92efd14b]{Develop Your Relationship})</p></li><li><p>Do you sneak into a secure government site to figure out what they know about Shiningstar? Do you steal a pamphlet from a passing salesperson? (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Dange}, or a Scene Challenge)</p></li><li><p>What public information is available? (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information})</p></li><li><p>Do you threaten someone to tell you everything they know? You could also, I dunno, ask them nicely? Or just lie. Whatever floats your boat. (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel})</p></li></ul><h2>Your Initial Investigation</h2><p>Roll 2–3 times on the following table to learn what you discover while getting prepared. Or perhaps you can take a number of clues based on the action die value of your previous moves. Or know them all. It's up to you!</p><p>@UUID[RollTable.UlnojI4egS7wHPc7]{Things You Uncover During Your Initial Investigation}</p><p>If you score a match (strong hit or a miss) while you prepare, you also learn this bit of information.</p><h2>REMEMBER: Fail forward</h2><p><a href=\"https://tomkinpress.com/pages/ironsworn-starforged\">Ironsworn: Starforged</a> is a game that encourages failing forward. This means that even when you Miss, you can still progress towards your goal. It'll just... suck a bit.</p><p>Here are some examples:</p><ul><li><p>You are trying to break into a government facility (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} +shadow), but score a Miss. You could say you don't enter the building at all, but that's no fun. You can interpret this Miss as you do enter the building... and are very quickly met with resistance from the guards. Uh oh.</p></li><li><p>You try to ask around town and decipher the whereabouts of a murder suspect (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} +wits), but score a Miss. Just as the move entails, you still find something out... it's just worse than what you thought. That murderer? Actually, it's a serial killer. Or there's more than one!</p></li><li><p>You attempt to shoot down parts of the landscape to block the path behind you (@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} +edge), but score a Miss. You could say your shots do nothing and the enemy advances. Or, you do actually shoot down the landscape... and now you are trapped with the ones you were trying to evade.</p></li></ul><p>However you go about this adventure – or any other – remember that a Miss doesn't always mean failure.</p><blockquote><p>Interesting. You feel better informed, even if you don't have much to go on. Regardless, it's time to make your preparations and head out. Something tells you to be quick. You can feel that time is running out...</p><p>No idea why.</p></blockquote>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755729025586,
+            "modifiedTime": 1755732484062,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 500000,
+          "name": "The Journey",
+          "type": "text",
+          "_id": "vEuZEz6ZFuAEV3Li",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<p>If you have the coordinates – or just want to make the trip shorter – roll @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course}. Or, just handwave the journey if you're pressed for time.</p><p>If you don't have the coordinates, but know a general way there – or you have more time to spare – roll @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}. I would advise that this Expedition be set at a rank lower than your Vow (or, the same if already Troublesome).</p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755729908349,
+            "modifiedTime": 1755731086777,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 600000,
+          "name": "The Shiningstar Settlement",
+          "type": "text",
+          "_id": "f8epiZKHvyG3BYjD",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<p>Included in this section are descriptions of Shiningstar and optional tables you can use to help flesh out the adventure, either in combination with or instead of the Starforged tables, as well as a section devoted to the problem facing Shiningstar, and an optional mechanic: an Encounter Clock.</p>\n<h1>Welcome to Shiningstar</h1>\n<p>Change any of the following to fit into a pre-existing campaign, or your own tastes, as needed.</p>\n<h2>The Shiningstar exterior</h2>\n<blockquote>\n    <p>The Shiningstar Settlement looks like it can dwarf a small moon. A metallic whale floating through space, forged from iron and steel with jagged corners and random lumps serving various unknown purposes. On the side in fading white is the word SHININGSTAR.</p>\n    <p>There is a docking bay to the side, though you’re not sure if it’s fully operational.</p>\n</blockquote>\n<p>If you score a Strong Hit + Match when arriving...</p>\n<section id=\"secret-jcmkJIt1rldWEQCG\" class=\"secret\">\n    <p>You notice that there are multiple bodies floating outside of the ship... A few of them are moving, as if alive still, somehow. You can tell that something has gone horribly wrong here. Take +2 Momentum as you prepare yourself.</p>\n</section>\n<p>Below is a table of Arrival Mishaps you can use when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.edac426b7c23f060]{Finish an Expedition} and encounter a mishap upon your arrival to Shiningstar. If you roll a miss and a match, roll multiple times and make it suck!</p>\n<p>@UUID[RollTable.8xvovtgLNmoFwZlm]{Arrival Mishap}</p>\n<h2>Interior first look</h2>\n<blockquote>\n    <p>It’s clear that Shiningstar is more than just a research and medical facility. From the moment you step inside, Shiningstar's original purpose and history becomes evident. A map and directory show that it could house well over a few thousand people if it needed to. You're quite sure it did during its time as a generation ship.</p>\n    <p>The lights within flicker sporadically while a garbled automated message plays. You can barely make out, “WELCOME TO SHININGSTAR.” Claw marks deform the entrance as if something wanted to get out. The pungent smell of decay is so strong you can taste it. Splattered blood and debris has turned this derelict into a wasteland. Corpses litter the ground... And yet, some of them are walking, shambling around aimlessly.</p>\n    <p>Shiningstar has been overtaken by Risen.</p>\n</blockquote>\n<img src=\"modules/rise-and-shining-star/assets/shiningstar-ambience.webp\" alt=\"Shiningstar ambience - blurred humanoid figure in background\" />\n<p>You should set the rank of this Expedition through Shiningstar to a rank lower than your Vow (or, Troublesome if the Vow is Troublesome).</p>\n<p>As you make progress in the settlement, you can use an array (p. 384) of the Derelict Settlement table, mixed with an Infested Location Theme.</p>\n<p>For an even split, I’d recommend using 1 - 3 for Derelict Settlement, 4 - 6 for Infested. You can adjust the percentage for how Infested you want it to be, or mix in your own.</p>\n<p>Use the sample @UUID[RollTable.CvW4XQnQesG7b5g5]{Settlement Progress Array}.</p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755730141775,
+            "modifiedTime": 1755762943294,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 700000,
+          "name": "The Truth About Shiningstar",
+          "type": "text",
+          "_id": "R9hpYu34mgiTULho",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<p>While navigating through Shiningstar, its ill-fated story becomes clear to you. As you mark progress on the expedition, learn a number of facts based on the number of boxes filled. You can learn them in order or randomly by rolling on the table below, or you can pick whatever seems appropriate based on the waypoint.</p><p>@UUID[RollTable.DFMycFKFtQtbfq9b]{What You Discover While in Shiningstar}</p><h2>Shiningstar Features</h2><p>You can use the table below to further flesh out waypoints with features that are specifically tailored to Shiningstar.</p><p>@UUID[RollTable.QZ3oTX3e6KWGYsec]{Shiningstar Features}</p><h2>Shiningstar Opportunities &amp; Perils</h2><p>When you need to figure out what has gone right or wrong at any given waypoint, you can roll on the tables below or pick one of the options. If you're selecting an option because of a match, try using the matched value and pick that number.</p><p>@UUID[RollTable.Ut1AbdUdBLJaaHZr]{Shiningstar Opportunities}</p><p>@UUID[RollTable.8iyMeEoLzX4UElid]{Shiningstar Perils}</p><h2>Pre-rolled Waypoints</h2><p>Below is a table of pre-rolled and fleshed-out Waypoints. Choose one of the numbers on your challenge dice after you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} and use the corresponding Waypoint if you don't want to come up with one yourself. Or, select whichever one that interests you the most. Feel free to change any part of them or mix and match.</p><p>@UUID[RollTable.oe7FgTOwHXf1gSTR]{Pre-rolled Waypoints}</p><p></p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755731508706,
+            "modifiedTime": 1755732203454,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 800000,
+          "name": "Your Adventure Has Come To An End",
+          "type": "text",
+          "_id": "PsUW2yqJSRiFm3uH",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<p>There is no central villain in Rise and Shiningstar. You are learning about what happened to a settlement and, maybe, helping some of the survivors. Or you're being selfish and looting the place. No judgment here.</p><p>If you want a final \"boss fight,\" however, right before you choose to @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.edac426b7c23f060]{Finish an Expedition} and/or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} – or perhaps as a penalty for Missing – you can face off against the @UUID[Actor.rZVks9wfQxoLeOZL]{Shiningstar Chimera}. Be warned as that is a Formidable encounter.</p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755732040953,
+            "modifiedTime": 1755733019361,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 900000,
+          "name": "Epilogue",
+          "type": "text",
+          "_id": "vBSlKgT1iH4H2usQ",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<blockquote>\n    <p>Well, imagine that: Shiningstar cracked the code for immortality.</p>\n    <p>Lot of good it did.</p>\n    <p>What you just experienced was the result of their experiments. The errors they made in testing were devastating, and this will have a lasting impact upon the Forge, no doubt.</p>\n    <p>You're sure that tree had nothing to do with it.</p>\n    <p>Luckily, not all of the inhabitants perished in this accident. You're sure some of them escaped. Let's hope none of them were infected. You wonder if they'll want to resume their testing.</p>\n    <p>You'd hate for this to happen again somewhere else...</p>\n</blockquote>\n<ul>\n    <li>\n        <p>Do you take the secret of immortality with you?</p>\n    </li>\n    <li>\n        <p>Do you leave Shiningstar here, or do you destroy it?</p>\n    </li>\n    <li>\n        <p>Do you save someone?</p>\n    </li>\n    <li>\n        <p>Are you going to seek out the survivors? What are you going to do with/for them?</p>\n    </li>\n    <li>\n        <p>Are you going to try and find that habitable world?</p>\n    </li>\n    <li>\n        <p>What did you find during your quest that helps – or hinders – you going forward?</p>\n    </li>\n    <li>\n        <p>What did you leave behind?</p>\n    </li>\n    <li>\n        <p>How has this changed you?</p>\n    </li>\n    <li>\n        <p>Are you infected?</p>\n    </li>\n</ul>\n<blockquote>\n    <p>Oh well. Time to move on to the next adventure.</p>\n    <p>It's just around the riverbend...</p>\n</blockquote>\n<img src=\"modules/rise-and-shining-star/assets/space-nebula.webp\" alt=\"Nebula\" />"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755732097774,
+            "modifiedTime": 1755760343859,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 650000,
+          "name": "Foes and Encounters",
+          "type": "text",
+          "_id": "gamnc1c7Bril7IVH",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<h2>NPCs</h2>\n<img src=\"modules/rise-and-shining-star/assets/shiningstar-risen.webp\" alt=\"Shiningstar Risen reaching out\" />\n<p>@UUID[Actor.3CTesFOOf4uuK7LT]{Shiningstar Risen}</p>\n<p>@UUID[Actor.L1VPOFFdBb19mJi3]{Shiningstar Risen (Troublesome)}</p>\n<p>@UUID[Actor.rZVks9wfQxoLeOZL]{Shiningstar Chimera}</p>\n<h2>Optional: Encounter Clock</h2>\n<p>If you want to definitely include combat – at least once – I would suggest adding an Encounter Clock. It's a specialized version of a Tension Clock. (p. 238)</p>\n<p>To do this, create a Clock with 4 segments at the beginning of the expedition. To encounter slightly less Risen, use 6 or 8 segments. You may still use this Clock to @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} as normal. Templates for the Encounter Clocks are linked below.</p>\n<p>Every time you mark progress on the expedition, you must fill segments equal to the value of the stat rolled. For instance, if you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} +wits, and your Wits was 2, you would fill in 2 segments of the Encounter Clock, regardless of any other modifiers to the roll. Since you'll know how full a Clock is, you can better plan for which stat to use when progressing and accommodate how many segments to fill.</p>\n<p>This will require some fictional framing, however. Explain in the fiction why your best stat may not be as useful. For instance, if your Edge is your best stat but you are forced to do another, you can frame it as needing to make a plan (wits) or hiding (shadow).</p>\n<p>If you burned momentum, instead do not add the value. You've bought yourself some time.</p>\n<p>Whenever you fill a Clock, trigger an encounter. If you overfilled the Clock, start a new one and either ignore the remainder (less encounters) or add the remainder to the new clock (more encounters).</p>\n<p>Pick an encounter from the Encounter on Shiningstar oracle below, roll a d6, or use the value of the action die that triggered the completed Clock.</p>\n<p>@UUID[RollTable.eDHmpoWTGSVexxuN]{Encounter on Shiningstar}</p>\n<h3>Encounter Clock Templates</h3>\n<p>@UUID[Item.mReUoJ1kDJUOD4cN]{Encounter Clock (4 Segments)}</p>\n<p>@UUID[Item.X3U7axL7F3ZSf6Or]{Encounter Clock (6 Segments)}</p>\n<p>@UUID[Item.kxtrnSZzjJBlo4D9]{Encounter Clock (8 Segments)}</p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755732734607,
+            "modifiedTime": 1755800760963,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": 1000000,
+          "name": "Purchase PDF",
+          "type": "text",
+          "_id": "71MicY4pmhsNNFv3",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<img src=\"modules/rise-and-shining-star/assets/rise-and-shiningstar-pdf-cover.webp\" alt=\"Rise &amp; Shiningstar PDF Cover\" /><p><a href=\"https://ko-fi.com/s/4917995151\">Purchase on Tavon Gatling's ko-fi</a>!</p><p><a href=\"https://ko-fi.com/gatlingxyz\">Buy the author a coffee</a></p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "createdTime": 1755733073501,
+            "modifiedTime": 1755763214061,
+            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+          },
+          "ownership": {
+            "default": -1
+          }
+        }
+      ],
+      "folder": "HVR27bAOp1NKelIU",
+      "categories": [],
+      "sort": 100000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755723164466,
+        "modifiedTime": 1777799858285,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Rise & Shiningstar",
+      "_id": "CF5tpQcmZxiwiJSa",
+      "navigation": false,
+      "navOrder": 0,
+      "background": {
+        "src": "modules/rise-and-shining-star/assets/scene-background.webp",
+        "anchorX": 0,
+        "anchorY": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "foreground": null,
+      "foregroundElevation": null,
+      "thumb": "worlds/starforged-development/assets/scenes/CF5tpQcmZxiwiJSa-thumb.webp",
+      "width": 4096,
+      "height": 2731,
+      "padding": 0,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
+      "backgroundColor": "#999999",
+      "grid": {
+        "type": 2,
+        "size": 250,
+        "style": "solidLines",
+        "thickness": 1,
+        "color": "#ffffff",
+        "alpha": 0.5,
+        "distance": 2,
+        "units": ""
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": true,
+        "overlay": null,
+        "colors": {
+          "explored": null,
+          "unexplored": null
+        }
+      },
+      "environment": {
+        "darknessLevel": 0,
+        "darknessLock": false,
+        "globalLight": {
+          "enabled": false,
+          "alpha": 0.5,
+          "bright": false,
+          "color": null,
+          "coloration": 1,
+          "luminosity": 0,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "cycle": true,
+        "base": {
+          "hue": 0,
+          "intensity": 0,
+          "luminosity": 0,
+          "saturation": 0,
+          "shadows": 0
+        },
+        "dark": {
+          "hue": 0.7138888888888889,
+          "intensity": 0,
+          "luminosity": -0.25,
+          "saturation": 0,
+          "shadows": 0
+        }
+      },
+      "drawings": [],
+      "tokens": [
+        {
+          "actorLink": true,
+          "name": "Shiningstar",
+          "displayName": 50,
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "systems/foundry-ironsworn/assets/locations/settlement-deepspace.webp",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 2,
+            "scaleY": 2,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 1,
+          "disposition": -1,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "95AQDbIZRpRmyn5i",
+          "hidden": false,
+          "sort": 0,
+          "shape": 0,
+          "_id": "SJaCZSAQLjB8wa5j",
+          "delta": {
+            "_id": "SJaCZSAQLjB8wa5j",
+            "name": null,
+            "type": null,
+            "img": null,
+            "system": {},
+            "items": [],
+            "effects": [],
+            "ownership": null,
+            "flags": {}
+          },
+          "x": 2000,
+          "y": 1083,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        }
+      ],
+      "lights": [],
+      "notes": [],
+      "sounds": [],
+      "regions": [],
+      "templates": [],
+      "tiles": [],
+      "walls": [],
+      "playlist": null,
+      "playlistSound": null,
+      "journal": "w3DZCSyKQ4Xmu260",
+      "journalEntryPage": "qAYTNpbPoSZwCzz8",
+      "weather": "",
+      "folder": "tofS1GucqI3k2ALF",
+      "sort": 100000,
+      "flags": {
+        "foundry-ironsworn": {
+          "region": "outlands"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Scene.CF5tpQcmZxiwiJSa",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.27.0",
+        "createdTime": 1756633255536,
+        "modifiedTime": 1777830450746,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "navName": "",
+      "ownership": {
+        "default": 0
+      },
+      "active": false
+    }
+  ],
+  "tables": [
+    {
+      "name": "Things You Uncover During Your Initial Investigation",
+      "formula": "1d100",
+      "description": "<p>Roll 2-3 times on the following table to learn what you discover while getting prepared. Or perhaps you can take a number of clues based on the action die value of your previous moves. Or know them all. It's up to you!</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            16
+          ],
+          "description": "While also focusing on expanding medical knowledge, they have grown quite a few plants and trees on board. The plantlife helps aid in breathability, as well as other benefits, for all of its inhabitants.",
+          "_id": "B6tD6629b3KI40Jt",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            17,
+            33
+          ],
+          "description": "Shiningstar specializes in research and medicine. They work hard to add their medical knowledge and expertise to the Forge.",
+          "_id": "pPCkud0tXnnPVyVj",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            34,
+            50
+          ],
+          "description": "Shiningstar sends out established healers and trainees to various settlements and provides healing for free. They often simply ask for small donations or lodging while they do their work.",
+          "_id": "7MJeNz38D1iBIPLb",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            51,
+            66
+          ],
+          "description": "The settlement has been radio-silent. No one has gotten word into or out of Shiningstar for some time now.",
+          "_id": "LHyddv2M14OniADk",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            67,
+            83
+          ],
+          "description": "While a medical and research facility first and foremost, many people live large chunks of their lives on board. Shiningstar used to be a generation ship.",
+          "_id": "evWCkcAL7N7qyZt8",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            84,
+            100
+          ],
+          "description": "It’s rumored that a few years ago Shiningstar received a large amount of money from a mysterious donor for a top-secret project.",
+          "_id": "qTsM2i7vHSOcCQp2",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "UlnojI4egS7wHPc7",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 100000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755724733730,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Arrival Mishap",
+      "formula": "1d100",
+      "description": "<p>Roll 2-3 times on the following table to learn what you discover while getting prepared. Or perhaps you can take a number of clues based on the action die value of your previous moves. Or know them all. It's up to you!</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            16
+          ],
+          "description": "<p>The docking bay is full of ships and debris. You’ll have to find somewhere else to leave your ship.</p>",
+          "_id": "B6tD6629b3KI40Jt",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755725230363
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            17,
+            33
+          ],
+          "description": "<p>Shiningstar is surrounded by a meteor field, and if you’re not careful, they’ll slam directly into you as you dock.</p>",
+          "_id": "pPCkud0tXnnPVyVj",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755725264888
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            34,
+            50
+          ],
+          "description": "<p>The gravity is malfunctioning, making docking more difficult or causing you to land harder than you intended.</p>",
+          "_id": "7MJeNz38D1iBIPLb",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755725281835
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            51,
+            66
+          ],
+          "description": "<p>The defense system of Shiningstar fires a single missile in your direction.</p>",
+          "_id": "LHyddv2M14OniADk",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755725298925
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            67,
+            83
+          ],
+          "description": "<p>The airlock seems jammed.</p>",
+          "_id": "evWCkcAL7N7qyZt8",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755725315797
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            84,
+            100
+          ],
+          "description": "<p>As you begin docking, a Shiningstar Risen wearing scrubs attacks you.</p>",
+          "_id": "qTsM2i7vHSOcCQp2",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755725372334
+          },
+          "documentUuid": null
+        }
+      ],
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 300000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "RollTable.UlnojI4egS7wHPc7",
+        "duplicateSource": "RollTable.UlnojI4egS7wHPc7",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755725137836,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_id": "8xvovtgLNmoFwZlm",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Encounter on Shiningstar",
+      "formula": "1d6",
+      "description": "<p>Pick an encounter from the table below, roll a d6, or use the value of the action die that triggered the completed Clock.</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            1
+          ],
+          "description": "Shiningstar Risen (Troublesome)",
+          "_id": "oMYNdaYMXToRI6pE",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            2,
+            2
+          ],
+          "description": "Shiningstar Risen (Troublesome)",
+          "_id": "8mAgfUrJcQdxQBIw",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            3,
+            3
+          ],
+          "description": "Shiningstar Risen (Dangerous)",
+          "_id": "wxlmZ1uM9fSxfCms",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            4,
+            4
+          ],
+          "description": "Shiningstar Risen (Dangerous)",
+          "_id": "LDijH7cV9uetoliK",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            5,
+            5
+          ],
+          "description": "Shiningstar Risen (Dangerous)",
+          "_id": "73pYxvwPiksX3jvs",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            6,
+            6
+          ],
+          "description": "Shiningstar Chimera (Formidable)",
+          "_id": "3O97lTSo7yDLKNnt",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "eDHmpoWTGSVexxuN",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 200000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755725559315,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "What You Discover While in Shiningstar",
+      "formula": "1d100",
+      "description": "<p>The Truth About Shiningstar - While navigating through Shiningstar, its ill-fated story becomes clear to you. As you mark progress on the expedition, learn a number of facts based on the number of boxes filled. You can learn them in order or randomly by rolling, or you can pick whatever seems appropriate based on the waypoint.</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "description": "Ash Durant donated a large amount of money to fund Shiningstar’s research. They wanted Shiningstar to essentially make them immortal, and money was no object. Shiningstar began focusing a lot of time on this endeavor.",
+          "_id": "fo2e6DGjLPHk95Sk",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            11,
+            20
+          ],
+          "description": "Shiningstar passed by a mysterious habitable planet. Dr. Hendrix was given a sample of the plant life there and began growing a large tree onboard. They believed it had medicinal properties.",
+          "_id": "ImHCQalAcvpniPTl",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            21,
+            30
+          ],
+          "description": "Shiningstar figured out the secret to immortality thanks to Dr. Hendrix’s tree and its flowers. They kept their findings a secret from the rest of the Forge. They called it Project ALEX.",
+          "_id": "F1oKeR9ayQlBgcGG",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            31,
+            40
+          ],
+          "description": "<p>Project ALEX was tested on a few terminal patients and met with great success. Not all survived, though. A few of those who survived eventually left Shiningstar with their loved ones.</p>",
+          "_id": "5OHb3mgRXEV93vN8",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755761723730
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            41,
+            50
+          ],
+          "description": "The crematorium on board was shut down temporarily due to a malfunction. A few dead bodies — some of them Project ALEX test subjects that were deemed failures — were locked away while the issue was worked on.",
+          "_id": "fy8Bn1ErW540N1qf",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            51,
+            60
+          ],
+          "description": "<p>Shiningstar encountered its first Risen, but it was swiftly dealt with. Security was hired to watch over the settlement more closely. They also hired a researcher to investigate how a Risen was created.</p>",
+          "_id": "FMaHAAwUxDBfYRkd",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755761737713
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            61,
+            70
+          ],
+          "description": "Shiningstar's power was knocked out for a few hours after traveling a great distance, plunging the settlement into darkness. Risen attacked.",
+          "_id": "BLPLh6NmCGF4Sxe7",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            71,
+            80
+          ],
+          "description": "<p>The Risen attacked in the dark, feeding on any and everyone they could reach. It was discovered then these Risen would almost freeze if caught within most lighting. And that they had almost plant-like qualities.</p>",
+          "_id": "bbR8SxQWHcu98ss4",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755761702159
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            81,
+            90
+          ],
+          "description": "The damage to Shiningstar grew more extensive, causing the power to become less reliable. The Risen thrived.",
+          "_id": "KOvkpcBPMAzaYzlf",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            91,
+            100
+          ],
+          "description": "The Shiningstar Chimera was created as a flood of survivors all tried to leave at once, only to end up trapped in one area. The Shiningstar Risen took advantage of this.",
+          "_id": "DnF1MVRrv2WcTBe5",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "DFMycFKFtQtbfq9b",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 150000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755725924473,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shiningstar Features",
+      "formula": "1d100",
+      "description": "<p>You can use this table to further flesh out waypoints with features that are specifically tailored to Shiningstar.</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            8
+          ],
+          "description": "Plaque in dedication to a top donor of Shiningstar",
+          "_id": "pfXVQcG1Iunt8QuV",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            9,
+            16
+          ],
+          "description": "Framed photo",
+          "_id": "NSK6Hk8XE6TUkSli",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            17,
+            24
+          ],
+          "description": "Voting propaganda from a recent election",
+          "_id": "ASSsTR3Ftmjc85By",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            25,
+            32
+          ],
+          "description": "Tablet or other personal or work device",
+          "_id": "zmDDOQfT253PXujX",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            33,
+            40
+          ],
+          "description": "Used medicine or medical equipment",
+          "_id": "8zCynshFSeyRs6n5",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            41,
+            48
+          ],
+          "description": "Stuffed animal",
+          "_id": "4urGbdlEc23rUi6C",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            49,
+            56
+          ],
+          "description": "Plants",
+          "_id": "fcDS2TUgp7p8YTKM",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            57,
+            64
+          ],
+          "description": "Vending machine",
+          "_id": "QqYkjz7ZWxpZqN5t",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            65,
+            72
+          ],
+          "description": "Cigarettes or other substances",
+          "_id": "xHSghCSugfVCf07t",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            73,
+            80
+          ],
+          "description": "Warning scrawled onto the walls or floor",
+          "_id": "tn67PFtizUeRJEWI",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            81,
+            88
+          ],
+          "description": "Signs that ammunition was fired",
+          "_id": "vPbYC6onXmg8EptJ",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            89,
+            100
+          ],
+          "description": "Dried blood",
+          "_id": "1pO26dDXMp7caZfA",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "QZ3oTX3e6KWGYsec",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 175000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755726176187,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Pre-rolled Waypoints",
+      "formula": "1d10",
+      "description": "<p>Below is a table of pre-rolled and fleshed-out Waypoints. Choose one of the numbers on your challenge dice after you Undertake an Expedition and use the corresponding Waypoint if you don't want to come up with one yourself. Or, select whichever one that interests you the most. Feel free to change any part of them or mix and match.</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            1
+          ],
+          "description": "<p>An operating room comes into view before you. Jars of biological specimens line the walls. Most of the jars are full, but a few have crashed onto the floor. A few of the jars appear to have been empty.</p>",
+          "_id": "rjEbIuls5Z8Q5zyh",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755731903301
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            2,
+            2
+          ],
+          "description": "<p>A large corridor stretches before you. The lights are flickering. Many of the doors are shut, while a few of them are bent as if something was trying to force its way in or out.</p>",
+          "_id": "IVPIgvknFHKkr9LK",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": "MmM06BuCrG9h1GLg",
+            "modifiedTime": 1755731923287
+          },
+          "documentUuid": null
+        },
+        {
+          "range": [
+            3,
+            3
+          ],
+          "description": "An equipment room stands out. If you had to guess, perhaps 10 by 10? Stacked alongside boxes of various labeled goods... is a mound of motionless Risen. Most are missing limbs and they seem completely inert.",
+          "_id": "Yp87s7J60pAMJ2B9",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            4,
+            4
+          ],
+          "description": "A control room, but it looks barely operational. There are a few random personal objects from those who worked in the room. Poking around with the controls, you are able to see the initial Risen attack on Shiningstar.",
+          "_id": "8UDMcdycyPSWFnzr",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            5,
+            5
+          ],
+          "description": "The living quarters, though it seems to have enough room for just one person. The room is chaos, as all the belongings have been tossed about. Blood splatter is on the wall, and a trail of blood is leaving the room.",
+          "_id": "kU5z0Hs176wM1d5B",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            6,
+            6
+          ],
+          "description": "A common area. There are a few broken screens and rotten half-eaten food. Magazines and pamphlets are thrown about.",
+          "_id": "gsCqF5acm9ebn7ii",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            7,
+            7
+          ],
+          "description": "There are stairs going to another floor. On the landing, a malfunctioning bot sits in the corner, a flickering smile on its display. It greets you if you approach.",
+          "_id": "IN1m7xfj9Ag1pvqs",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            8,
+            8
+          ],
+          "description": "Off to one side of a communal area is an agnostic place of worship, though someone has set up the chapel for a specific deity. Behind it, a panoramic viewport, with a breathtaking view of space.",
+          "_id": "OSKb2nJuaGf1nUlb",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            9,
+            9
+          ],
+          "description": "A promenade, overlooking a dying indoor forest. The plants and small trees look as if they haven’t been watered in weeks. Below, Risen roam and bodies decay.",
+          "_id": "kGZxEgrkIzanwh19",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            10,
+            10
+          ],
+          "description": "A completely sealed room, though you can see inside through an observatory window. Inside, a few Risen and stacks of body bags. Oddly enough, within another containment unit: a vibrant, thriving tree. You can see small lifeforms, probably bugs, fluttering about within the containment unit.",
+          "_id": "iElYWKadxp6z1tQr",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "oe7FgTOwHXf1gSTR",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 162500,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755726429643,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Quest Hooks",
+      "formula": "1d6",
+      "description": "<p>How are you dragged into this? Choose one result or roll on this oracle. <span style=\"color:rgb(82, 224, 224);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(0, 0, 0);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Or, create one yourself.</span></p>",
+      "results": [
+        {
+          "range": [
+            1,
+            1
+          ],
+          "description": "A priceless artifact's last known location is somewhere within a settlement known as Shiningstar. Word on the street is it could go for millions, at a minimum. And you know that if you've heard of it, someone else did, too.  <em>Do you swear to retrieve the artifact?</em>",
+          "_id": "qthWvTD9V66JJ0WM",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            2,
+            2
+          ],
+          "description": "A connection of yours contacts you in dire need. They have been gravely injured and things are not looking good. It’s well beyond your capabilities. They mention a settlement named Shiningstar that may be able to help. They are sure that the medicine and technology needed are there. <em>Do you swear a vow to retrieve what they need?</em>",
+          "_id": "mp02TDhp3UKLG1E6",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            3,
+            3
+          ],
+          "description": "Out of the blue, you receive a distress signal. It’s not directly addressed to you — instead, to “anyone who can hear this.” The message is choppy at best and there are sounds of commotion and chaos in the background. The most you can make out is the person asking for help and to please hurry to the Shiningstar settlement. <em>Do you swear to help this person you don't even know?</em>",
+          "_id": "ip7jvvvG4UKqP7JX",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            4,
+            4
+          ],
+          "description": "A connection of yours contacts you about delivering a shipment of valuable, lifesaving tech to some settlement called Shiningstar. Problem is, they can’t seem to get in contact with their person within the settlement. The materials are time-sensitive. <em>Do you swear to deliver the shipment to Shiningstar?</em>",
+          "_id": "ABfISFEyuOlksESI",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            5,
+            5
+          ],
+          "description": "Venri Taylen has a large bounty on their head. They have evaded capture all throughout the sector so far, but of course, this was before you got involved. Rumor has it that they were headed towards a settlement called Shiningstar. <em>Do you swear to bring them in?</em>",
+          "_id": "i4DTjDqets908ndf",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            6,
+            6
+          ],
+          "description": "You are haunted by vague dreams – often nightmares – depicting a tree that gives birth to a shining star, surrounded by depictions of both life and death. In an attempt to understand these visions, you overhear murmurs of a settlement named Shiningstar. You know there is no such thing as coincidences. <em>Do you swear to uncover the meaning behind your cryptic visions?</em>",
+          "_id": "QTXzHhiSTTegEWoB",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "4kgt4mIRp7sgdpkb",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 156250,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755726667982,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shiningstar Opportunities",
+      "formula": "1d10",
+      "description": "<p>When you need to figure out what has gone right at any given waypoint, you can roll on this table or pick one of the options. If you're selecting an option because of a match, try using the matched value and pick that number.</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            1
+          ],
+          "description": "A stash of perfectly preserved medical supplies, and a few ration bars.",
+          "_id": "9vrI7HA6vex9NMLa",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            2,
+            2
+          ],
+          "description": "Two survivors. They look hurt, but alright. They have been fighting to survive.",
+          "_id": "Oi44fHIC9Lptk43a",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            3,
+            3
+          ],
+          "description": "You discover something beneficial that directly relates to another quest you are on.",
+          "_id": "D8J56d2DHUomd1kN",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            4,
+            4
+          ],
+          "description": "A tablet with the pin code taped to the back. It contains a list of all of its staff and many of its patients over the last few years.",
+          "_id": "jHCnXtoy8iaQz2J7",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            5,
+            5
+          ],
+          "description": "A cache of ammunition for various firearms, as well as a few ad-hoc weapons and devices.",
+          "_id": "zg3Fn8iRQolCRahQ",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            6,
+            6
+          ],
+          "description": "Access to a large sum of money, abandoned by those fleeing.",
+          "_id": "UsqWvZRgaujmLbVC",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            7,
+            7
+          ],
+          "description": "The lights turn on, causing all Risen to freeze in place and gape, arms and vines trying to grasp it. They ignore your presence for some time.",
+          "_id": "kRfMMSrOeuKhGATY",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            8,
+            8
+          ],
+          "description": "There is a hopeful phrase located nearby that stands out amidst the chaos. It provides a moment of respite and thoughtful reflection.",
+          "_id": "VpPGqAptYz46LYm2",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            9,
+            9
+          ],
+          "description": "The paths are easier to navigate than you originally thought. You have more time despite any early assumptions.",
+          "_id": "tHXewGIMDCeyoXDJ",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            10,
+            10
+          ],
+          "description": "Your reason for coming here is within reach.",
+          "_id": "7urAGbrbYnOS37Gk",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "Ut1AbdUdBLJaaHZr",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 153125,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755727270714,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shiningstar Perils",
+      "formula": "1d10",
+      "description": "<p>When you need to figure out what has gone wrong at any given waypoint, you can roll on this table or pick one of the options. If you're selecting an option because of a match, try using the matched value and pick that number.</p>",
+      "results": [
+        {
+          "range": [
+            1,
+            1
+          ],
+          "description": "A rotten smell wafts your way. Its stench is unbearable. It causes your stomach to twist and turn.",
+          "_id": "vUTV0oAJROetz2Dh",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            2,
+            2
+          ],
+          "description": "Two survivors. They share what they know with you. However, you quickly learn that one of them is in the process of becoming a Risen... right before they attack the other, and then you.",
+          "_id": "LkSwOOUBlOmwhP1I",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            3,
+            3
+          ],
+          "description": "You discover something detrimental related to another quest you’re on that negates a previously believed truth.",
+          "_id": "C0x3xrlnnHKbSDyU",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            4,
+            4
+          ],
+          "description": "A tablet with the pin code taped to the back. On it, a heartbreaking goodbye from one of the now-deceased inhabitants in their final moments.",
+          "_id": "WhskjyPHagbtbIk6",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            5,
+            5
+          ],
+          "description": "An ad-hoc device — which you quickly learn was supposed to be an explosive — suddenly detonates.",
+          "_id": "UcY37oImSeTzKHVf",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            6,
+            6
+          ],
+          "description": "The gravity on the ship causes you to drop to the ceiling, then back down again. You are fine, but something on your person isn’t as lucky.",
+          "_id": "NIcyzA97Qf4CLaS2",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            7,
+            7
+          ],
+          "description": "The lights turn off, and all of the Risen turn ravenous. They move about in search of other light or moisture to satiate them.",
+          "_id": "MUdlRpbCP2PIt1Py",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            8,
+            8
+          ],
+          "description": "A journal with details of Project ALEX, and the following sentence: \"It may have escaped. The Forge is doomed.\"",
+          "_id": "f5cs282PCOFMpTkQ",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            9,
+            9
+          ],
+          "description": "The paths are trickier than you anticipated. It’s going to take you a while longer to get from here to your next waypoint.",
+          "_id": "H2WEZC27p2E53WVo",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        },
+        {
+          "range": [
+            10,
+            10
+          ],
+          "description": "You are sure you have failed. Whatever brought you here initially is lost to you or unobtainable.",
+          "_id": "V8ZcZjSp4yAUKJQf",
+          "type": "text",
+          "name": "",
+          "img": "icons/dice/d10black.svg",
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.347",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.25.3",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "_id": "8iyMeEoLzX4UElid",
+      "img": "icons/dice/d10black.svg",
+      "replacement": true,
+      "displayRoll": true,
+      "folder": "01nJBpoGJmzas428",
+      "sort": 151563,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755727319352,
+        "modifiedTime": 1777799858325,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "macros": [],
+  "cards": [],
+  "playlists": [],
+  "folders": [
+    {
+      "type": "Actor",
+      "folder": null,
+      "name": "Rise & Shiningstar",
+      "color": null,
+      "sorting": "a",
+      "_id": "CTU9A48mP9hIGp8I",
+      "description": "",
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755724232101,
+        "modifiedTime": 1777799858354,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      }
+    },
+    {
+      "type": "JournalEntry",
+      "folder": null,
+      "name": "Rise & Shiningstar",
+      "color": null,
+      "sorting": "a",
+      "_id": "HVR27bAOp1NKelIU",
+      "description": "",
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755723157019,
+        "modifiedTime": 1777799858354,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      }
+    },
+    {
+      "type": "RollTable",
+      "folder": null,
+      "name": "Rise & Shiningstar",
+      "color": null,
+      "sorting": "a",
+      "_id": "01nJBpoGJmzas428",
+      "description": "",
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755724260477,
+        "modifiedTime": 1777799858354,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      }
+    },
+    {
+      "type": "Item",
+      "folder": null,
+      "name": "Rise & Shiningstar",
+      "color": null,
+      "sorting": "a",
+      "_id": "BdSOrj88oRvSFlVS",
+      "description": "",
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.3",
+        "createdTime": 1755800592760,
+        "modifiedTime": 1777799858354,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      }
+    },
+    {
+      "type": "Scene",
+      "folder": null,
+      "name": "Rise & Shiningstar",
+      "color": null,
+      "sorting": "a",
+      "_id": "tofS1GucqI3k2ALF",
+      "description": "",
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1756633528301,
+        "modifiedTime": 1777799858354,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      }
+    }
+  ],
+  "_id": "zZI50ig6UYmSfDc0",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1755722997284,
+    "modifiedTime": 1777830505514,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!adventures!zZI50ig6UYmSfDc0"
+}
