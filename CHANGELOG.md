@@ -2,6 +2,10 @@
 
 [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 
+## [1.1.1](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-07-10)
+
+* Removed scene thumbnail since it can easily break. It is a [known Foundry issue](https://github.com/jendave/rise-and-shining-star/issues/2).
+
 ## [1.1.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-07-10)
 
 * Create build process.
