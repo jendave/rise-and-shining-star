@@ -10,13 +10,49 @@ Adventures for [Ironsworn: Starforged](https://tomkinpress.com/) to launch your 
 
 ## Adventures
 
-* [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://github.com/jendave/starforged-adventures/blob/main/docs/rise-and-shiningstar.md)
+### [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://github.com/jendave/starforged-adventures/blob/main/docs/rise-and-shiningstar.md)
 
 > You have been called to a settlement known as Shiningstar, whether to answer a distress call, find a missing person, or strange visions beckon you. Whatever the case, upon your arrival, you discover that Shiningstar—the settlement that focused on healing and life—has taken a turn for the worse.
+>
+> I must warn you, though. If you keep going, you're going to encounter death. Lots of it. None of it is pretty. Most of it is sad. It's what the kids these days call "nightmare fuel."
+>
+> And it will fight back.
 
-* [Wind City: Starforged Sector Starter](https://github.com/jendave/starforged-adventures/blob/main/docs/wind-city.md)
+Ever need a quick adventure to introduce new players to [Ironsworn:Starforged](https://tomkinpress.com/)? Need something to drop into a current campaign to get things moving along?
 
-> **Wind City** is a two-page sector starter for Ironsworn: Starforged, built for a quick start of play, whether starting a new campaign or navigating to a new sector in an established campaign. Notable locations, factions, and NPCs provide a focused location with tensions already in motion: a labor dispute moving towards a boiling point, a smuggler's growing ambitions, and a principal engineer with a secret that could see the city fall.
+Just wanna try out a new character and see how they play?
+
+Well, I've got the solution for you: a quick and easy one-shot! Rise & Shiningstar was made for pretty much all the reasons above, and probably a few more I don't know about. It's built to allow as much creative freedom in the adventure as possible, while still providing a fully fleshed-out adventure that doesn't require you to plan ahead or interpret every vague oracle result. Mix and match, drag and drop, plug and play as much as you want.
+
+In terms of XP, this adventure allows you to complete one Vow and up to two Expeditions, as well as a chance to use multiple Connection Moves. There's also plenty of room for combat, or you can avoid or ignore it entirely.
+
+Within this game-ready adventure, you will find new foes, journal entries, items and rollable tables.
+
+An [Ironsworn:Starforged](https://tomkinpress.com/) Adventure Module by [Tavon Gatling](https://www.gatling.xyz/author/tavon/).
+
+* [Free website version](https://www.gatling.xyz/rise-and-shiningstar/)
+* [Download PDF version](https://ko-fi.com/s/4917995151)
+* [Buy the author a coffee](https://ko-fi.com/gatlingxyz)
+
+### [Wind City: Starforged Sector Starter](https://github.com/jendave/starforged-adventures/blob/main/docs/wind-city.md)
+
+*A floating city, a shipping nexus, a storm below.*
+
+Port Anchorhold floats on eight massive engines above the storms of a gas giant. Split in two by structural practicalities and a stark line of wealth, it is the over-romanticized Wind City to almost everyone in the Forge. Glitz, deals and old money get the Upper City. Grease, grudges and people who keep the lights on have to make do in the Lower City.
+
+**Wind City** is a two-page sector starter for Ironsworn: Starforged, built for a quick start of play, whether starting a new campaign or navigating to a new sector in an established campaign. Notable locations, factions, and NPCs provide a focused location with tensions already in motion: a labor dispute moving towards a boiling point, a smuggler's growing ambitions, and a principal engineer with a secret that could see the city fall.
+
+This starter runs slightly longer than the standard sector starter format - two pages instead of one - in order to provide additional detail on the trouble unfolding.
+
+Though written for Starforged, the sector starter is easily portable to most sci-fi or space-opera systems and settings - any setting where a floating city and space commerce would be plausible.
+
+*Touchstones: The Outer Worlds' Murder on Eridanos, with notes of Freelancer and Mass Effect.*
+
+---
+
+The PDF by [rewritable](https://rewritable.itch.io) can be found at [https://rewritable.itch.io/wind-city](https://rewritable.itch.io/wind-city) and is licensed under the CC BY 4.0.
+
+This work is based on Ironsworn: Starforged, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License.
 
 ## Module Installation
 
