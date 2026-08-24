@@ -1,7 +1,7 @@
 {
   "id": "rise-and-shining-star",
-  "title": "Rise & Shiningstar",
-  "description": "<p>An Adventure For Ironsworn: Starforged.</p><p>You are being drawn to a settlement named Shiningstar. You don't know much else about the settlement yet, but whatever draws you to it has made you swear a vow.</p><p></p><p>Created by <a href=\"https://www.gatling.xyz/author/tavon/\">Tavon Gatling</a>. Original adventure can be found <a href=\"https://www.gatling.xyz/rise-and-shiningstar/\">here</a>. The PDF can be purchased <a href=\"https://ko-fi.com/s/4917995151\">here</a>.</p>",
+  "title": "Starforged Adventures",
+  "description": "<p>Adventures for <a href=\"https://tomkinpress.com/\">Ironsworn: Starforged</a> to launch your campaign.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",
@@ -19,38 +19,40 @@
       "url": "https://jendave.itch.io/",
       "discord": "jendave",
       "flags": {}
+    },
+    {
+      "name": "Rewritable",
+      "url": "https://rewritable.itch.io",
+      "discord": "rewritable",
+      "flags": {}
     }
   ],
   "flags": {
     "canUpload": true
   },
+  "esmodules": ["./esmodules/sequencer-effects.js", "./esmodules/token-attacher-fixes.js"],
   "packs": [
     {
-      "name": "rise-and-shiningstar",
-      "label": "Rise & Shiningstar",
-      "path": "packs/rise-and-shiningstar",
+      "name": "starforged-adventures",
+      "label": "Starforged Adventures",
+      "path": "packs/starforged-adventures",
       "type": "Adventure",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "foundry-ironsworn",
       "flags": {}
     }
   ],
   "packFolders": [
     {
-      "name": "Rise & Shiningstar",
-      "packs": ["rise-and-shiningstar"]
+      "name": "Starforged Adventures",
+      "packs": ["starforged-adventures"]
     }
   ],
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
-  "license": "https://raw.githubusercontent.com/jendave/rise-and-shiningstar/main/LICENSE",
-  "changelog": "https://raw.githubusercontent.com/jendave/rise-and-shiningstar/main/CHANGELOG.md",
-  "readme": "https://raw.githubusercontent.com/jendave/rise-and-shiningstar/main/README.md",
-  "bugs": "https://github.com/jendave/rise-and-shiningstar/issues",
+  "license": "https://raw.githubusercontent.com/jendave/starforged-adventures/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/starforged-adventures/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/starforged-adventures/main/README.md",
+  "bugs": "https://github.com/jendave/starforged-adventures/issues",
   "relationships": {
     "systems": [
       {
@@ -58,14 +60,36 @@
         "type": "system",
         "compatibility": {}
       }
+    ],
+    "requires": [
+      {
+        "id": "JB2A_DnD5e",
+        "type": "module",
+        "manifest": "https://github.com/Jules-Bens-Aa/JB2A_DnD5e/releases/latest/download/module.json"
+      },
+      {
+        "id": "sequencer",
+        "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-Sequencer/releases/latest/download/module.json"
+      },
+      {
+        "id": "token-attacher",
+        "type": "module",
+        "manifest": "https://github.com/KayelGee/token-attacher/releases/latest/download/module.json"
+      },
+      {
+        "id": "starforged-custom-oracles",
+        "type": "module",
+        "manifest": "https://github.com/jendave/starforged-custom-compendiums/releases/latest/download/module.json"
+      },
+      {
+        "id": "starsmith-expanded-oracles",
+        "type": "module",
+        "manifest": "https://github.com/jendave/starsmith-compendiums/releases/latest/download/module.json"
+      }
     ]
   },
   "quickstart": {
-    "adventures": {"foundry-ironsworn": {"uuid": "Compendium.rise-and-shining-star.rise-and-shiningstar.Adventure.zZI50ig6UYmSfDc0"}},
-    "postImport": true,
-    "world": {
-        "background": "modules/rise-and-shining-star/assets/space-nebula.webp",
-        "cover": "modules/rise-and-shining-star/assets/cover-thumbnail.webp"
-    }
+    "postImport": true
   }
 }

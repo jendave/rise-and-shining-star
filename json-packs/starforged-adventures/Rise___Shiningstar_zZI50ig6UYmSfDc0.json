@@ -18,14 +18,14 @@
           "src": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
           "anchorX": 0.5,
           "anchorY": 0.5,
-          "offsetX": 0,
-          "offsetY": 0,
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1,
-          "rotation": 0,
           "tint": "#ffffff",
-          "alphaThreshold": 0.75
+          "alphaThreshold": 0.75,
+          "offsetX": 0,
+          "offsetY": 0,
+          "rotation": 0
         },
         "displayName": 0,
         "actorLink": false,
@@ -137,11 +137,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755794869220
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": 0
@@ -160,10 +159,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1755723717764,
-        "modifiedTime": 1777799858238,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524249,
+        "modifiedTime": 1786606524249,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "sort": 100000,
       "_id": "rZVks9wfQxoLeOZL",
@@ -184,14 +183,14 @@
           "src": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
           "anchorX": 0.5,
           "anchorY": 0.5,
-          "offsetX": 0,
-          "offsetY": 0,
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1,
-          "rotation": 0,
           "tint": "#ffffff",
-          "alphaThreshold": 0.75
+          "alphaThreshold": 0.75,
+          "offsetX": 0,
+          "offsetY": 0,
+          "rotation": 0
         },
         "displayName": 0,
         "actorLink": false,
@@ -303,11 +302,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755794846560
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": 0
@@ -327,10 +325,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1755723808899,
-        "modifiedTime": 1777799858238,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524249,
+        "modifiedTime": 1786606524249,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "_id": "3CTesFOOf4uuK7LT",
       "ownership": {
@@ -351,14 +349,14 @@
           "src": "systems/foundry-ironsworn/assets/locations/settlement-deepspace.webp",
           "anchorX": 0.5,
           "anchorY": 0.5,
-          "offsetX": 0,
-          "offsetY": 0,
           "fit": "contain",
           "scaleX": 2,
           "scaleY": 2,
-          "rotation": 0,
           "tint": "#ffffff",
-          "alphaThreshold": 0.75
+          "alphaThreshold": 0.75,
+          "offsetX": 0,
+          "offsetY": 0,
+          "rotation": 0
         },
         "lockRotation": true,
         "rotation": 0,
@@ -452,10 +450,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1755760568777,
-        "modifiedTime": 1777799858238,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524249,
+        "modifiedTime": 1786606524249,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -474,14 +472,14 @@
           "src": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
           "anchorX": 0.5,
           "anchorY": 0.5,
-          "offsetX": 0,
-          "offsetY": 0,
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1,
-          "rotation": 0,
           "tint": "#ffffff",
-          "alphaThreshold": 0.75
+          "alphaThreshold": 0.75,
+          "offsetX": 0,
+          "offsetY": 0,
+          "rotation": 0
         },
         "displayName": 0,
         "actorLink": false,
@@ -593,11 +591,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755794821101
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": 0
@@ -617,10 +614,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1755794711634,
-        "modifiedTime": 1777799858238,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524249,
+        "modifiedTime": 1786606524249,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "_id": "L1VPOFFdBb19mJi3",
       "ownership": {
@@ -654,13 +651,13 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
+        "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1730000676402,
-        "modifiedTime": 1777799858269,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg",
-        "exportSource": null
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524266,
+        "modifiedTime": 1786606524266,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -692,10 +689,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1755795553644,
-        "modifiedTime": 1777799858269,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524266,
+        "modifiedTime": 1786606524266,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "_id": "X3U7axL7F3ZSf6Or",
       "ownership": {
@@ -728,10 +725,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1755795555900,
-        "modifiedTime": 1777799858269,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524266,
+        "modifiedTime": 1786606524266,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "_id": "kxtrnSZzjJBlo4D9",
       "ownership": {
@@ -770,12 +767,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755723215482,
-            "modifiedTime": 1755750108870,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -807,12 +802,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755728297574,
-            "modifiedTime": 1755736814370,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -844,12 +837,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755728646884,
-            "modifiedTime": 1755737290320,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -881,12 +872,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755729025586,
-            "modifiedTime": 1755732484062,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -918,12 +907,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755729908349,
-            "modifiedTime": 1755731086777,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -955,12 +942,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755730141775,
-            "modifiedTime": 1755762943294,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -992,12 +977,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755731508706,
-            "modifiedTime": 1755732203454,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -1029,12 +1012,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755732040953,
-            "modifiedTime": 1755733019361,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -1066,12 +1047,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755732097774,
-            "modifiedTime": 1755760343859,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -1103,12 +1082,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755732734607,
-            "modifiedTime": 1755800760963,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -1140,12 +1117,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "createdTime": 1755733073501,
-            "modifiedTime": 1755763214061,
-            "lastModifiedBy": "MmM06BuCrG9h1GLg"
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "ownership": {
             "default": -1
@@ -1162,10 +1137,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755723164466,
-        "modifiedTime": 1777799858285,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524273,
+        "modifiedTime": 1786606524273,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -1179,48 +1154,46 @@
       "navigation": false,
       "navOrder": 0,
       "background": {
-        "src": "modules/rise-and-shining-star/assets/scene-background.webp",
+        "src": "systems/foundry-ironsworn/assets/sectors/1.webp",
         "anchorX": 0,
         "anchorY": 0,
         "offsetX": 0,
         "offsetY": 0,
-        "fit": "fill",
+        "fit": "contain",
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": "#ffffff",
+        "tint": "#000000",
         "alphaThreshold": 0
       },
-      "foreground": null,
-      "foregroundElevation": null,
       "thumb": null,
       "width": 4096,
       "height": 2731,
       "padding": 0,
       "initial": {
-        "x": null,
-        "y": null,
-        "scale": null
+        "x": 2428,
+        "y": 1417,
+        "scale": 0.386
       },
-      "backgroundColor": "#999999",
+      "backgroundColor": "#000000",
       "grid": {
         "type": 2,
-        "size": 250,
+        "size": 170,
         "style": "solidLines",
         "thickness": 1,
         "color": "#ffffff",
-        "alpha": 0.5,
+        "alpha": 0.25,
         "distance": 2,
         "units": ""
       },
       "tokenVision": false,
       "fog": {
-        "exploration": true,
-        "overlay": null,
         "colors": {
           "explored": null,
           "unexplored": null
-        }
+        },
+        "exploration": true,
+        "overlay": null
       },
       "environment": {
         "darknessLevel": 0,
@@ -1268,17 +1241,17 @@
             "src": "systems/foundry-ironsworn/assets/locations/settlement-deepspace.webp",
             "anchorX": 0.5,
             "anchorY": 0.5,
-            "offsetX": 0,
-            "offsetY": 0,
             "fit": "contain",
             "scaleX": 2,
             "scaleY": 2,
-            "rotation": 0,
             "tint": "#ffffff",
-            "alphaThreshold": 0.75
+            "alphaThreshold": 0.75,
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0
           },
           "lockRotation": true,
-          "rotation": 0,
+          "rotation": 217.56859202882748,
           "alpha": 1,
           "disposition": -1,
           "displayBars": 0,
@@ -1361,11 +1334,11 @@
             "system": {},
             "items": [],
             "effects": [],
-            "ownership": null,
-            "flags": {}
+            "flags": {},
+            "ownership": null
           },
-          "x": 2000,
-          "y": 1083,
+          "x": 2040,
+          "y": 1031,
           "elevation": 0,
           "locked": false,
           "_movementHistory": [],
@@ -1376,7 +1349,6 @@
       "notes": [],
       "sounds": [],
       "regions": [],
-      "templates": [],
       "tiles": [],
       "walls": [],
       "playlist": null,
@@ -1397,12 +1369,15 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.27.0",
-        "createdTime": 1756633255536,
-        "modifiedTime": 1777830450746,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524294,
+        "modifiedTime": 1786606533374,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "navName": "",
+      "foreground": null,
+      "foregroundElevation": null,
+      "templates": [],
       "ownership": {
         "default": 0
       },
@@ -1432,9 +1407,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1455,9 +1430,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1478,9 +1453,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1501,9 +1476,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1524,9 +1499,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1547,9 +1522,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -1567,10 +1542,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755724733730,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -1598,11 +1573,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755725230363
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -1623,11 +1597,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755725264888
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -1648,11 +1621,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755725281835
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -1673,11 +1645,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755725298925
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -1698,11 +1669,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755725315797
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -1723,11 +1693,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755725372334
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         }
@@ -1744,10 +1713,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755725137836,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "_id": "8xvovtgLNmoFwZlm",
       "ownership": {
@@ -1776,9 +1745,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1799,9 +1768,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1822,9 +1791,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1845,9 +1814,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1868,9 +1837,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1891,9 +1860,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -1911,10 +1880,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755725559315,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -1942,9 +1911,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1965,9 +1934,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -1988,9 +1957,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2011,11 +1980,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755761723730
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -2036,9 +2004,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2059,11 +2027,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755761737713
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -2084,9 +2051,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2107,11 +2074,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755761702159
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -2132,9 +2098,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2155,9 +2121,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -2175,10 +2141,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755725924473,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -2206,9 +2172,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2229,9 +2195,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2252,9 +2218,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2275,9 +2241,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2298,9 +2264,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2321,9 +2287,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2344,9 +2310,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2367,9 +2333,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2390,9 +2356,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2413,9 +2379,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2436,9 +2402,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2459,9 +2425,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -2479,10 +2445,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755726176187,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -2510,11 +2476,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755731903301
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -2535,11 +2500,10 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
-            "lastModifiedBy": "MmM06BuCrG9h1GLg",
-            "modifiedTime": 1755731923287
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
           },
           "documentUuid": null
         },
@@ -2560,9 +2524,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2583,9 +2547,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2606,9 +2570,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2629,9 +2593,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2652,9 +2616,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2675,9 +2639,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2698,9 +2662,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2721,9 +2685,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -2741,10 +2705,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755726429643,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -2772,9 +2736,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2795,9 +2759,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2818,9 +2782,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2841,9 +2805,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2864,9 +2828,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2887,9 +2851,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -2907,10 +2871,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755726667982,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -2938,9 +2902,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2961,9 +2925,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -2984,9 +2948,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3007,9 +2971,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3030,9 +2994,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3053,9 +3017,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3076,9 +3040,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3099,9 +3063,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3122,9 +3086,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3145,9 +3109,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -3165,10 +3129,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755727270714,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -3196,9 +3160,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3219,9 +3183,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3242,9 +3206,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3265,9 +3229,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3288,9 +3252,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3311,9 +3275,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3334,9 +3298,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3357,9 +3321,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3380,9 +3344,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         },
@@ -3403,9 +3367,9 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.347",
+            "coreVersion": "13.351",
             "systemId": "foundry-ironsworn",
-            "systemVersion": "1.25.3",
+            "systemVersion": "1.28.0",
             "lastModifiedBy": null
           }
         }
@@ -3423,10 +3387,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755727319352,
-        "modifiedTime": 1777799858325,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524305,
+        "modifiedTime": 1786606524305,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       },
       "ownership": {
         "default": 0
@@ -3453,10 +3417,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755724232101,
-        "modifiedTime": 1777799858354,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524333,
+        "modifiedTime": 1786606524333,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       }
     },
     {
@@ -3475,10 +3439,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755723157019,
-        "modifiedTime": 1777799858354,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524333,
+        "modifiedTime": 1786606524333,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       }
     },
     {
@@ -3497,10 +3461,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755724260477,
-        "modifiedTime": 1777799858354,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524333,
+        "modifiedTime": 1786606524333,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       }
     },
     {
@@ -3519,10 +3483,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.3",
-        "createdTime": 1755800592760,
-        "modifiedTime": 1777799858354,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524333,
+        "modifiedTime": 1786606524333,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       }
     },
     {
@@ -3541,10 +3505,10 @@
         "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
-        "systemVersion": "1.25.4",
-        "createdTime": 1756633528301,
-        "modifiedTime": 1777799858354,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+        "systemVersion": "1.28.0",
+        "createdTime": 1786606524333,
+        "modifiedTime": 1786606524333,
+        "lastModifiedBy": "2oblTQ0qCOjBq0f7"
       }
     }
   ],
@@ -3559,8 +3523,8 @@
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.25.3",
     "createdTime": 1755722997284,
-    "modifiedTime": 1777830505514,
-    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+    "modifiedTime": 1786606603361,
+    "lastModifiedBy": "2oblTQ0qCOjBq0f7"
   },
   "_key": "!adventures!zZI50ig6UYmSfDc0"
 }

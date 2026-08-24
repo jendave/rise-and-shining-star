@@ -1,0 +1,3761 @@
+{
+  "name": "Wind City: Starforged Sector Starter",
+  "img": "modules/rise-and-shining-star/assets/wind-city.webp",
+  "caption": "Wind City: Starforged Sector Starter by rewritable",
+  "description": "<p><em>A floating city, a shipping nexus, a storm below.</em></p><p>Port Anchorhold floats on eight massive engines above the storms of a gas giant. Split in two by structural practicalities and a stark line of wealth, it is the over-romanticized Wind City to almost everyone in the Forge. Glitz, deals and old money get the Upper City. Grease, grudges and people who keep the lights on have to make do in the Lower City.</p><p>Wind City is a two-page sector starter for Ironsworn: Starforged, built for a quick start of play, whether starting a new campaign or navigating to a new sector in an established campaign. Notable locations, factions, and NPCs provide a focused location with tensions already in motion: a labor dispute moving towards a boiling point, a smuggler's growing ambitions, and a principal engineer with a secret that could see the city fall.</p><p>This starter runs slightly longer than the standard sector starter format - two pages instead of one - in order to provide additional detail on the trouble unfolding.</p><p>Though written for Starforged, the sector starter is easily portable to most sci-fi or space-opera systems and settings - any setting where a floating city and space commerce would be plausible.</p><p><em>Touchstones: The Outer Worlds' Murder on Eridanos, with notes of Freelancer and Mass Effect</em>.</p><p>---</p><p>The PDF by <a href=\"https://rewritable.itch.io/\">rewritable</a> can be found at https://rewritable.itch.io/wind-city and is licensed under the CC BY 4.0.</p><p>This work is based on <a href=\"https://tomkinpress.com/pages/ironsworn-starforged\">Ironsworn: Starforged</a>, created by Shawn Tomkin, and licensed for our use under the <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.</p>",
+  "sort": 0,
+  "actors": [
+    {
+      "type": "foe",
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Bernadette Mccrae",
+      "folder": "UUS1I4ywamQURp8j",
+      "system": {
+        "dfid": ""
+      },
+      "prototypeToken": {
+        "name": "Bernadette Mccrae",
+        "displayName": 50,
+        "disposition": 0,
+        "actorLink": true,
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "src": "icons/svg/mystery-man.svg",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "width": 1,
+        "height": 1,
+        "lockRotation": false,
+        "rotation": 0,
+        "alpha": 1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 0,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "_id": "jucxAFSgYoGpb3xp",
+      "items": [
+        {
+          "name": "Progress Track",
+          "type": "progress",
+          "img": "icons/svg/mystery-man.svg",
+          "system": {
+            "description": "<p><strong>Role:</strong> Engineer</p><p class=\"p1\"><strong>Features:</strong> Aged, deceitful, vengeful</p><p class=\"p1\"><strong>Home:</strong> Upper City</p><p><strong>Goal:</strong> Sabotage a technology, avenge a wrong As a brilliant young engineer, Bernadette McCrae was leading the team that solved the practical challenges of Brace engines. Now in her mid-fifties, she still works for Anchorhold and is one of 4 engineers with access to inner housings of the engines.</p><p class=\"p1\">The two decades she's spent living on the Wind City she helped create have also taught her how it can chew up and spit out an unprepared person. Five years ago Bernadette lost her wife in what officially was reported as a piloting-under-influence accident on docking approach. Bernadette believes otherwise and blames everyone, including herself, but she has never told that to anyone.</p><p class=\"p1\"><strong>Trouble:</strong> The grief and guilt is eating away at Bernadette, but she maintains a facade of a diligent principal engineer as she works on her final personal project. She is determined to not collapse without making the Wind City fall with her. Brace engines are built with redundancies upon redundancies, but Bernadette is missing only detailed calibration data for a device that could cause a cascading failure.</p>",
+            "rank": 2,
+            "current": 0,
+            "completed": false,
+            "subtype": "connection",
+            "starred": false,
+            "hasTrack": true,
+            "hasClock": false,
+            "clockTicks": 0,
+            "clockMax": 4
+          },
+          "_id": "3CI0b123TWlfdsnz",
+          "effects": [],
+          "folder": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": 0
+          }
+        }
+      ],
+      "effects": [],
+      "sort": 50000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "foe",
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Christian Reese",
+      "folder": "UUS1I4ywamQURp8j",
+      "system": {
+        "dfid": ""
+      },
+      "prototypeToken": {
+        "name": "Christian Reese",
+        "displayName": 50,
+        "disposition": 0,
+        "actorLink": true,
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "src": "icons/svg/mystery-man.svg",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "width": 1,
+        "height": 1,
+        "lockRotation": false,
+        "rotation": 0,
+        "alpha": 1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 0,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "_id": "7jdpM3PaEP3W4S6L",
+      "items": [
+        {
+          "name": "Progress Track",
+          "type": "progress",
+          "img": "icons/svg/mystery-man.svg",
+          "system": {
+            "description": "<p class=\"p2\"><strong>Role:</strong> Investigator</p><p class=\"p2\"><strong>Features:</strong> Charismatic, cunning, augmented</p><p class=\"p2\"><strong>Home:</strong> Upper City</p><p class=\"p2\"><strong>Goal:</strong> Gain renown on his own merits</p><p class=\"p2\">A few people can play on a stereotype as effortlessly as Christian Reese. A licensed private investigator, he likes to subtly imply that the main character of \"Love and Death in Wind City\" is styled after him, and enough people believe him to make it a lucrative niche.</p><p class=\"p2\">While Christian is a decently competent investigator, actual legwork on his cases is done by discreet associates, with detective Reese using his talents of looking the part and, depending on the type of mark, either attracting attention or getting underestimated. Too many have written off the detective who is never seen without a glass of double whiskey as harmless, never realizing it's not Reese they should have been on the lookout for. Reese is not foolish enough to mimic the lifestyle of a fictional character without help: liver and blood-vessel filter implants keep him sober through the incapacitating volumes of alcohol he consumes as part of his MO.</p><p class=\"p2\"><strong>Trouble:</strong> Reese has been hired by an anonymous patron to find and retrieve research data, stolen from an automated gravity fluctuation sensor station in the lower levels of Lower City. It is far outside his usual expertise, and there's a lot fishy about the job; the gravity metric data is nearly worthless to everyone outside very specialized fields. Reese is sure that he is expected to fail. But the fee was good, and Reese is intrigued to see what will happen if he disappoints the expectations.</p>",
+            "rank": 2,
+            "current": 0,
+            "completed": false,
+            "subtype": "connection",
+            "starred": false,
+            "hasTrack": true,
+            "hasClock": false,
+            "clockTicks": 0,
+            "clockMax": 4
+          },
+          "_id": "PWpAmcnSykJ9sj8u",
+          "effects": [],
+          "folder": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": 0
+          }
+        }
+      ],
+      "effects": [],
+      "sort": 25000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "location",
+      "name": "Cirrus",
+      "folder": "UUS1I4ywamQURp8j",
+      "system": {
+        "description": "<p>Cirrus first attracted prospectors due to it being the rare Jovian with human-compatible climate in its upper atmosphere layers. The second wave of interest was after the discovery of a unique organic compound that occasionally was thrown up from the planet's deepest core during violent storms, quickly named storm amber for its appearance. However, permanent settlements were only brought about after expansion into Outlands beyond the Stygian Wall due to inherent difficulties of settling a world without solid land.</p>",
+        "subtype": "planet",
+        "klass": "jovian"
+      },
+      "img": "systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-Jovian-02.webp",
+      "prototypeToken": {
+        "displayName": 50,
+        "disposition": 0,
+        "actorLink": true,
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "src": "systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-Jovian-02.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "name": "Cirrus",
+        "width": 1,
+        "height": 1,
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 1,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "_id": "n6Aa4yNylt6MY3nh",
+      "items": [],
+      "effects": [],
+      "sort": 100000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "foe",
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Finnian Styles",
+      "folder": "UUS1I4ywamQURp8j",
+      "system": {
+        "dfid": ""
+      },
+      "prototypeToken": {
+        "name": "Finnian Styles",
+        "displayName": 50,
+        "disposition": 0,
+        "actorLink": true,
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "src": "icons/svg/mystery-man.svg",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "width": 1,
+        "height": 1,
+        "lockRotation": false,
+        "rotation": 0,
+        "alpha": 1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 0,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "items": [
+        {
+          "name": "Progress Track",
+          "type": "progress",
+          "img": "icons/svg/mystery-man.svg",
+          "system": {
+            "description": "<p class=\"p2\"><strong>Role:</strong> Smuggler</p><p class=\"p2\"><strong>Features:</strong> Swaggering, ambitious, infamous</p><p class=\"p2\"><strong>Home:</strong> Temporary base in the outskirts of the Stygian Wall</p><p class=\"p2\"><strong>Goal:</strong> Swindle his way into legitimacy</p><p class=\"p2\">Storm amber harvesting is just a side-business for Anchorhold Shipping. The artificially low supply and high demand create a fertile ground for enterprising individuals. Finnian is one of them. He and his crew started with old-fashioned piracy, entering the atmosphere of Cirrus on ballistic trajectory to avoid detection, boarding a stormskimmer barge as it returned to Wind City and taking any amber by force. Lately Finnian has found a safer way to do business and has made arrangements with several barge crews who sell him part of the haul as they meet up in the cloudy expanse.</p><p class=\"p2\"><strong>Trouble:</strong> Finnian Styles' ambitions are growing. No longer content with piracy or skimming from Anchorhold's barges, he is looking to obtain a barge and a fleet of stormskimmers of his own. Everyone knows that a barge is useless without a port of call, and Wind City is the only solid ground on Cirrus. That fact, however, does not seem to deter Finnian. What does he know that others don't?</p>",
+            "rank": 2,
+            "current": 0,
+            "completed": false,
+            "subtype": "connection",
+            "starred": false,
+            "hasTrack": true,
+            "hasClock": false,
+            "clockTicks": 0,
+            "clockMax": 4
+          },
+          "_id": "3CI0b123TWlfdsnz",
+          "effects": [],
+          "folder": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": 0
+          }
+        }
+      ],
+      "effects": [],
+      "sort": 50000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Actor.jucxAFSgYoGpb3xp",
+        "duplicateSource": "Actor.jucxAFSgYoGpb3xp",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "_id": "eIP2KMJaBqYqBYu5",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Lower City",
+      "img": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+      "type": "location",
+      "prototypeToken": {
+        "actorLink": true,
+        "name": "Lower City",
+        "displayName": 50,
+        "width": 1,
+        "height": 1,
+        "texture": {
+          "src": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 2,
+          "scaleY": 2,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": -1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 1,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "UUS1I4ywamQURp8j",
+      "_id": "qMb2MU5nIKSin2Wp",
+      "system": {
+        "description": "<p>Keeps the wheels turning and the city afloat. Utilitarian and industrial, it hosts everything and everyone that the Upper city prefers to keep out of its carefully curated streets.</p><h3>BRACE ENGINES</h3><p class=\"p1\">These 8 large installations ring the underside of the structural disk. They supposedly work by \"bracing\" themselves against the gravity gradient, but specifics of that are one of the most closely held secrets of Anchorhold Shipping. The periphery of each engine is maintained by a round-the-clock crew of 20 technicians, but the access to the inner chamber that holds the \"brace\" itself is permitted only to 4 chief engineers, and only with 2 of them being present.</p><p class=\"p1\"><strong>Trouble:</strong> Recently, the engines have struggled to smoothly adjust lift to match altitude with the wind streams. It doesn't endanger the city, but has caused discomfort to inhabitants due to brief quakes. The leading opinion of engineers is that natural cyclical changes in lower atmosphere density are the cause, though a few engineers aren't convinced. A survey conducted in the deeper layers would be invaluable for troubleshooting, but it's hard to come by, as almost no one is willing to fly below the main cloud layer.</p><h3>STORMSKIMMER BARGE DOCK</h3><p class=\"p2\">The base of operations of all stormskimming activity on the planet. Rumors are that new more effective methods for storm amber collection have been developed, but Anchorhold Shipping prefers to maintain the artificial scarcity the current setup provides. The dock also acts as the landing area for all cargo transports bound to the Lower city. A typical hover barge holds 6 stormskimmers - light kite-like atmospheric craft, which are deployed when the barge gets to the operations area - usually several hundred kilometers south where the storm fronts congregate. Stormskimmers dive through the edges of the storm clouds, sifting for the storm amber kicked up from the depths by the updraft and electric charge.</p><h3>ELEVATORS</h3><p class=\"p2\">The structural disk that keeps the city together is made of hyperdense alloy and allows only a small number of gaps within to maintain structural integrity. Hence all traffic between upper and lower cities is funneled through 12 elevator shafts, serving both human and cargo traffic. Nearly half of Lower city adult residents work service jobs in the Upper city, causing long lines to form at elevators during commute times. City security closely monitors the traffic at all times, and is known to often step up the control to full checkpoints under pretenses of crime prevention.</p><p class=\"p2\"><strong>Trouble:</strong> City security have stepped up checkpoints at the elevators to previously unseen intensity - everyone is stopped, their documents checked and questioned. It is causing workers to arrive late to their jobs in the upper city, to the point that Grand Hotel administration and other prominent businesses have filed a petition for Security to explain themselves. Usually Security folds like a wet tissue paper under pressure from Upper city interests, but not this time. What or who are they searching for?</p>",
+        "subtype": "settlement",
+        "klass": "planetside"
+      },
+      "items": [],
+      "effects": [],
+      "sort": 400000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Transfer Station",
+      "img": "systems/foundry-ironsworn/assets/locations/settlement-orbital.webp",
+      "type": "location",
+      "prototypeToken": {
+        "actorLink": true,
+        "name": "Transfer Station",
+        "displayName": 50,
+        "width": 1,
+        "height": 1,
+        "texture": {
+          "src": "systems/foundry-ironsworn/assets/locations/settlement-orbital.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 2,
+          "scaleY": 2,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": -1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 1,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "UUS1I4ywamQURp8j",
+      "_id": "1df5DnmEaFPNfUlp",
+      "system": {
+        "description": "<p>Located in a geostationary orbit above Cirrus, it is the largest shipping hub in the Forge with its latticework structure of docking berth supports, cargo transfer lanes, warehouse spaces and admin wings spanning for more than a hundred kilometers across. Nearly all cargo crossing the Stygian Wall spends some time here getting consolidated or redistributed, and even outbound express cargo ships and passenger craft make a brief stop for refueling and updating of navigation data on the Crossing.</p><h3>MERCANTILE SECURITY</h3><p class=\"p1\">Large quantities of goods and workers provide a lot of opportunities for theft, tampering, sabotage, handling fee evasion and unionization. Prevention of it all is under Mercantile Security's purview. With their HQ in the central Transfer Station's hub, station houses positioned in all main wings, and a sizable patrol craft fleet, their presence feels ubiquitous on the station and its surrounding space.</p><h3>RACING CIRCLE</h3><p class=\"p1\">Hundreds of kilometers of wide cargo transit lanes arranged in a loose grid that allows for almost any configuration of straights and turns - in hindsight, it was inevitable local workers would find their use as a racing track irresistible. They initially started as short off-shift races of personal transit scooters with their speed-limiters disabled. Over two decades, lane racing has grown into its own vibrant subculture.</p><p class=\"p1\"><strong>Trouble:</strong> Lane racing is attracting attention from outside the sector with thrill seekers traveling here specifically to take part, and its main events are now covered by Weave news media. Some of the local racers are using this outlet to promote the message of worker rights and the idea of a union, while at the same time Anchorhold Shipping is working to undermine the grease-monkey ethos of the subculture by heavily sponsoring select racers with corporately approved attitudes.</p>",
+        "subtype": "settlement",
+        "klass": "orbital"
+      },
+      "items": [],
+      "effects": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Upper City",
+      "img": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+      "type": "location",
+      "prototypeToken": {
+        "actorLink": true,
+        "name": "Upper City",
+        "displayName": 50,
+        "width": 1,
+        "height": 1,
+        "texture": {
+          "src": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 2,
+          "scaleY": 2,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": -1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 1,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "UUS1I4ywamQURp8j",
+      "_id": "Sy5MvaCoAhAZQpF9",
+      "system": {
+        "description": "<p>One of the most exclusive properties in the entire Forge - it's dedicated to convenience and luxury of the ultra-rich merchant and shipping executives preferring to remain close to their interests in the sector, and is built to facilitate the ceaseless brokering of deals and agreements that often decide the fate of hundreds of thousands of tons of cargo in orbit.</p><h3>GRAND HOTEL</h3><p class=\"p1\">A sprawling complex catering to everyone arriving to the system for business. Taking up almost a third of the surface area, it provides not only rooms and suites of all sizes and levels of opulence, but also hundreds of meeting rooms, restaurants, cafes and all types of bars, except the seedy ones. The Grand Hotel is a cornerstone for the successful operation of the City, so its administration has a significant weight in the internal Anchorhold politics.</p><h3>ARBITRATION COURT</h3><p class=\"p1\">Where there is business, there are disagreements. Anchorhold Shipping realized early on that an independent body for resolving contract disputes is a key requirement to maintain a reputation of safe haven for business and not attract attention from Terminus polities. Arbitration Court is an imposing building on the edge of the Disk, overlooking the landing berths and the clouds beyond. The Court handles its own hiring processes and hand-picks Arbiters among individuals across the Forge with a reputation of fierce independence. That does not mean that any individual Arbiter cannot be swayed, influenced or bribed - it happens occasionally, if not regularly - but it means all parties have an equal starting position as the case opens.</p><p class=\"p1\"><strong>Trouble:</strong> A case is opened, petitioning to incorporate a company with storm amber harvesting rights. It should have been dismissed as trivial, as only Anchorhold has the infrastructure for atmospheric operation on Cirrus, but a prominent Arbiter has been assigned to this case.</p>",
+        "subtype": "settlement",
+        "klass": "planetside"
+      },
+      "items": [],
+      "effects": [],
+      "sort": 200000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "location",
+      "name": "Wind City",
+      "folder": "UUS1I4ywamQURp8j",
+      "system": {
+        "description": "<p>Port Anchorhold is its official name, but it was called Wind City by both locals and visitors well before the Weave show \"Love and Death in Wind City\" made the name famous throughout the Forge.</p><p class=\"p1\">Wind City is built on both sides of the central disk held afloat in the upper atmosphere of Cirrus by 8 Brace engines. The City is continuously moved around the planet by the driving winds, but by using the different wind streams it stays in the same general area below the Transfer Station. The disk divides the city in two distinct halves - Upper and Lower city. The stark contrast between the windswept glitz and the industrial warren has sparked imaginations of many fiction authors of all mediums. The reality of the place is more disappointing or more strange, depending on whom you ask.</p>",
+        "subtype": "settlement",
+        "klass": "planetside"
+      },
+      "img": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+      "prototypeToken": {
+        "displayName": 50,
+        "disposition": 0,
+        "actorLink": true,
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2,
+          "src": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "name": "Wind City",
+        "width": 1,
+        "height": 1,
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 1,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "_id": "zJxj4QYu8wSHYh9R",
+      "items": [],
+      "effects": [],
+      "sort": 300000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103748,
+        "modifiedTime": 1786659103748,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Anchorhold Shipping",
+      "img": "modules/starforged-custom-oracles/assets/dark-squad.svg",
+      "type": "starforged-custom-oracles.faction",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "oracles": "starsmith",
+        "type": "corporation",
+        "aspect": "Civilian technology",
+        "leadership": "",
+        "description": "<p><strong>Influence:</strong> Dominant — Far-reaching influence across many sectors</p><p><strong>Projects:</strong> Upgrade the facilities at an established location</p><p><strong>Relationships:</strong> Does business with</p><p>Anchorhold Shipping was founded more than a century ago by the children of Merei Watson, the explorer who first reached this sector in early days of expansion into the Forge. However it was the next expansion wave with settled worlds beyond the Stygian Wall and the discovery of the Crossing that allowed them to exploit the local foothold to all but monopolize the initial flow of goods between Outlands and Terminus.</p><p>When other companies seemed to catch up on the lucrative routes, Anchorhold Shipping made the decision not to participate in that race, but to pour their liquid assets into building Transfer Station and the Wind City. Both have been providing an invaluable and irreplaceable service to an ever-growing volume of shipping going through the sector for the last 25 years, making Anchorhold Shipping one of the richest companies in the Forge.</p>"
+      },
+      "prototypeToken": {
+        "actorLink": true,
+        "name": "Anchorhold Shipping",
+        "displayName": 50,
+        "width": 1,
+        "height": 1,
+        "texture": {
+          "src": "modules/starforged-custom-oracles/assets/dark-squad.svg",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "contain",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "lockRotation": true,
+        "rotation": 0,
+        "alpha": 1,
+        "disposition": 0,
+        "displayBars": 0,
+        "bar1": {
+          "attribute": null
+        },
+        "bar2": {
+          "attribute": null
+        },
+        "light": {
+          "negative": false,
+          "priority": 0,
+          "alpha": 0.5,
+          "angle": 360,
+          "bright": 0,
+          "color": null,
+          "coloration": 1,
+          "dim": 0,
+          "attenuation": 0.5,
+          "luminosity": 0.5,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "sight": {
+          "enabled": false,
+          "range": 0,
+          "angle": 360,
+          "visionMode": "basic",
+          "color": null,
+          "attenuation": 0.1,
+          "brightness": 0,
+          "saturation": 0,
+          "contrast": 0
+        },
+        "detectionModes": [],
+        "occludable": {
+          "radius": 0
+        },
+        "ring": {
+          "enabled": false,
+          "colors": {
+            "ring": null,
+            "background": null
+          },
+          "effects": 0,
+          "subject": {
+            "scale": 1,
+            "texture": null
+          }
+        },
+        "turnMarker": {
+          "mode": 1,
+          "animation": null,
+          "src": null,
+          "disposition": false
+        },
+        "movementAction": null,
+        "flags": {},
+        "randomImg": false,
+        "appendNumber": false,
+        "prependAdjective": false
+      },
+      "folder": "UUS1I4ywamQURp8j",
+      "_id": "psIBXEB2CeUVb8TN",
+      "items": [],
+      "effects": [],
+      "sort": 350000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Actor.psIBXEB2CeUVb8TN",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "createdTime": 1787515346208,
+        "modifiedTime": 1787523166306,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "combats": [],
+  "items": [],
+  "journal": [
+    {
+      "folder": "VDQNQOIfcEvdh3O3",
+      "name": "Faction: Anchorhold Shipping",
+      "_id": "UTyzkf1DwNSyzCYB",
+      "pages": [
+        {
+          "sort": 100000,
+          "name": "Background",
+          "type": "text",
+          "_id": "v5gdHOFUxwovvPHD",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<p class=\"p2\">Anchorhold Shipping was founded more than a century ago by the children of Merei Watson, the explorer who first reached this sector in early days of expansion into the Forge. However it was the next expansion wave with settled worlds beyond the Stygian Wall and the discovery of the Crossing that allowed them to exploit the local foothold to all but monopolize the initial flow of goods between Outlands and Terminus.</p><p class=\"p2\">When other companies seemed to catch up on the lucrative routes, Anchorhold Shipping made the decision not to participate in that race, but to pour their liquid assets into building Transfer Station and the Wind City. Both have been providing an invaluable and irreplaceable service to an ever- growing volume of shipping going through the sector for the last 25 years, making Anchorhold Shipping one of the richest companies in the Forge.</p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": -1
+          }
+        }
+      ],
+      "categories": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "JournalEntry.UTyzkf1DwNSyzCYB",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103771,
+        "modifiedTime": 1786659103771,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Wind City: Starforged Sector Starter",
+      "folder": "VDQNQOIfcEvdh3O3",
+      "pages": [
+        {
+          "name": "Sector Overview: Watson's Anchorage",
+          "text": {
+            "content": "<p>Watson's Anchorage lies on the edge of Terminus, bordering the Stygian Wall, a dense field of stellar detritus marred with permanent balefires. Within the sector is the entrance to the Crossing - by far the safest charted route through the Wall, making it the natural nexus point of shipping traffic passing between central Terminus and Outlands beyond.</p>",
+            "format": 1
+          },
+          "_id": "g2MOBmC8Slq5k1Fa",
+          "type": "text",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "name": "Sector Troubles",
+          "text": {
+            "content": "<ul><li><p>Upper City security have intensified checkpoints on access elevators in Lower City.</p></li><li><p class=\"p1\">A storm amber smuggler is looking to acquire a Stormskimmer barge of his own by any means necessary.</p></li><li><p class=\"p1\">Wind City's principal engineer is working in secret on a project that could disable the engines that keep the city afloat.</p></li><li><p class=\"p1\">A private investigator has been hired for a case he's clearly meant to fail, and intends to prove his patron wrong.</p></li><li><p class=\"p1\">Tensions are simmering towards a boiling point in the semi-underground racing subculture on Transfer Station.</p></li></ul>",
+            "format": 1
+          },
+          "_id": "Bsm0ce4lWygsPj8z",
+          "type": "text",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "name": "Sector Locations",
+          "text": {
+            "content": "<p>@UUID[Actor.n6Aa4yNylt6MY3nh]{Cirrus}</p><p>@UUID[Actor.zJxj4QYu8wSHYh9R]{Wind City}</p><p>@UUID[Actor.Sy5MvaCoAhAZQpF9]{Upper City}</p><p>@UUID[Actor.qMb2MU5nIKSin2Wp]{Lower City}</p><p>@UUID[Actor.1df5DnmEaFPNfUlp]{Transfer Station}</p>",
+            "format": 1
+          },
+          "_id": "i70t0cyMegVdb9Dl",
+          "type": "text",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "name": "People and Factions",
+          "text": {
+            "content": "<p></p><p>@UUID[Actor.jucxAFSgYoGpb3xp]{Bernadette Mccrae}</p><p>@UUID[Actor.7jdpM3PaEP3W4S6L]{Christian Reese}</p><p>@UUID[Actor.eIP2KMJaBqYqBYu5]{Finnian Styles}</p><p>@UUID[JournalEntry.UTyzkf1DwNSyzCYB]{Faction: Anchorhold Shipping}</p>",
+            "format": 1
+          },
+          "_id": "S6Ucf0LsCUZtT7Qg",
+          "type": "text",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": -1
+          }
+        },
+        {
+          "sort": -100000,
+          "name": "Introduction",
+          "type": "text",
+          "_id": "JAZnBHwocLkCoviN",
+          "system": {},
+          "title": {
+            "show": true,
+            "level": 1
+          },
+          "image": {},
+          "text": {
+            "format": 1,
+            "content": "<p><em>A floating city, a shipping nexus, a storm below.</em></p><p>Port Anchorhold floats on eight massive engines above the storms of a gas giant. Split in two by structural practicalities and a stark line of wealth, it is the over-romanticized Wind City to almost everyone in the Forge. Glitz, deals and old money get the Upper City. Grease, grudges and people who keep the lights on have to make do in the Lower City.</p><p>Wind City is a two-page sector starter for Ironsworn: Starforged, built for a quick start of play, whether starting a new campaign or navigating to a new sector in an established campaign. Notable locations, factions, and NPCs provide a focused location with tensions already in motion: a labor dispute moving towards a boiling point, a smuggler's growing ambitions, and a principal engineer with a secret that could see the city fall.</p><p>This starter runs slightly longer than the standard sector starter format - two pages instead of one - in order to provide additional detail on the trouble unfolding.</p><p>Though written for Starforged, the sector starter is easily portable to most sci-fi or space-opera systems and settings - any setting where a floating city and space commerce would be plausible.</p><p><em>Touchstones: The Outer Worlds' Murder on Eridanos, with notes of Freelancer and Mass Effect</em>.</p><p>---</p><p>The PDF by <a href=\"https://rewritable.itch.io/\">rewritable</a> can be found at https://rewritable.itch.io/wind-city and is licensed under the CC BY 4.0.</p><p>This work is based on <a href=\"https://tomkinpress.com/pages/ironsworn-starforged\">Ironsworn: Starforged</a>, created by Shawn Tomkin, and licensed for our use under the <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.</p>"
+          },
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "category": null,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "foundry-ironsworn",
+            "systemVersion": "1.28.0",
+            "lastModifiedBy": null
+          },
+          "ownership": {
+            "default": -1
+          }
+        }
+      ],
+      "_id": "ktmt3arhL73fXIHY",
+      "categories": [],
+      "sort": 100000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "JournalEntry.ktmt3arhL73fXIHY",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103771,
+        "modifiedTime": 1786659103771,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "folder": "5gXRFNlk1jlitOmo",
+      "name": "Watson's Anchorage",
+      "flags": {
+        "foundry-ironsworn": {
+          "region": "outlands"
+        },
+        "token-attacher": {}
+      },
+      "tokenVision": false,
+      "navigation": false,
+      "grid": {
+        "type": 2,
+        "color": "#ffffff",
+        "alpha": 0.35,
+        "size": 170,
+        "style": "solidLines",
+        "thickness": 1,
+        "distance": 1,
+        "units": ""
+      },
+      "backgroundColor": "#000000",
+      "padding": 0,
+      "initial": {
+        "scale": 0.386,
+        "x": 2428,
+        "y": 1417
+      },
+      "foregroundElevation": 20,
+      "width": 4096,
+      "height": 2731,
+      "fog": {
+        "exploration": false,
+        "overlay": null,
+        "colors": {
+          "explored": null,
+          "unexplored": null
+        }
+      },
+      "_id": "Icoz9Zv4bBAJogNt",
+      "navOrder": 0,
+      "background": {
+        "src": "systems/foundry-ironsworn/assets/sectors/1.webp",
+        "anchorX": 0,
+        "anchorY": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "foreground": null,
+      "thumb": null,
+      "environment": {
+        "darknessLevel": 0,
+        "darknessLock": false,
+        "globalLight": {
+          "enabled": false,
+          "alpha": 0.5,
+          "bright": false,
+          "color": null,
+          "coloration": 1,
+          "luminosity": 0,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "cycle": true,
+        "base": {
+          "hue": 0,
+          "intensity": 0,
+          "luminosity": 0,
+          "saturation": 0,
+          "shadows": 0
+        },
+        "dark": {
+          "hue": 0.7138888888888889,
+          "intensity": 0,
+          "luminosity": -0.25,
+          "saturation": 0,
+          "shadows": 0
+        }
+      },
+      "drawings": [],
+      "tokens": [
+        {
+          "displayName": 50,
+          "disposition": 0,
+          "actorLink": true,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 0,
+          "name": "The Crossing",
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/square.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "Wj8XFl9nt5vV9V7a",
+          "shape": 4,
+          "_id": "0t0ldOg8p4j3Vz3C",
+          "delta": {
+            "_id": "0t0ldOg8p4j3Vz3C",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 850,
+          "y": 736,
+          "elevation": 0,
+          "sort": 0,
+          "locked": false,
+          "hidden": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "displayName": 0,
+          "disposition": 0,
+          "actorLink": true,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 0,
+          "name": "Rimward Marker",
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/square.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "C8s1DYZAkpQof44m",
+          "shape": 4,
+          "_id": "0EUdt4mxVRWVcTOE",
+          "delta": {
+            "_id": "0EUdt4mxVRWVcTOE",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 850,
+          "y": 2503,
+          "elevation": 0,
+          "sort": 0,
+          "locked": false,
+          "hidden": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "displayName": 0,
+          "disposition": 0,
+          "actorLink": true,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 0,
+          "name": "Trailing Marker",
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/square.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "BDRBO0kyHOAyzKVf",
+          "shape": 4,
+          "_id": "FWfCHZAjgRPqYwlz",
+          "delta": {
+            "_id": "FWfCHZAjgRPqYwlz",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 3825,
+          "y": 589,
+          "elevation": 0,
+          "sort": 0,
+          "locked": false,
+          "hidden": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "displayName": 50,
+          "disposition": 0,
+          "actorLink": true,
+          "texture": {
+            "scaleX": 2,
+            "scaleY": 2,
+            "src": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "name": "Wind City",
+          "width": 1,
+          "height": 1,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 1,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {
+            "token-attacher": {
+              "parent": "C3Odw3UWEQy0b9MP",
+              "offset": {
+                "x": 255,
+                "y": -98.14954576223636,
+                "rot": 0,
+                "centerX": 340,
+                "centerY": 0,
+                "offRot": -270,
+                "size": {
+                  "width": 1,
+                  "height": 1,
+                  "widthBase": 1,
+                  "heightBase": 1
+                },
+                "elevation": {
+                  "flags": {},
+                  "elevation": 0
+                }
+              },
+              "unlocked": true
+            }
+          },
+          "actorId": "zJxj4QYu8wSHYh9R",
+          "shape": 4,
+          "_id": "ScBnkQnXEI02WwV4",
+          "delta": {
+            "_id": "ScBnkQnXEI02WwV4",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 2295,
+          "y": 1178,
+          "elevation": 0,
+          "sort": 5,
+          "locked": false,
+          "hidden": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "displayName": 50,
+          "disposition": 0,
+          "actorLink": true,
+          "texture": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-Jovian-02.webp",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "name": "Cirrus",
+          "width": 1,
+          "height": 1,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 1,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 1,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {
+            "token-attacher": {
+              "parent": "C3Odw3UWEQy0b9MP",
+              "offset": {
+                "x": 170,
+                "y": 48.85045423776364,
+                "rot": 0,
+                "centerX": 255,
+                "centerY": 147,
+                "offRot": -270,
+                "size": {
+                  "width": 1,
+                  "height": 1,
+                  "widthBase": 1,
+                  "heightBase": 1
+                },
+                "elevation": {
+                  "flags": {},
+                  "elevation": 0
+                }
+              },
+              "unlocked": true
+            }
+          },
+          "actorId": "n6Aa4yNylt6MY3nh",
+          "shape": 4,
+          "_id": "NgNYllXlWCKzfVjc",
+          "delta": {
+            "_id": "NgNYllXlWCKzfVjc",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 2210,
+          "y": 1325,
+          "elevation": 0,
+          "sort": 0,
+          "locked": false,
+          "hidden": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "actorLink": true,
+          "name": "Upper City",
+          "displayName": 50,
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 2,
+            "scaleY": 2,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "lockRotation": false,
+          "rotation": 180,
+          "alpha": 1,
+          "disposition": 0,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {
+            "token-attacher": {
+              "parent": "C3Odw3UWEQy0b9MP",
+              "offset": {
+                "x": -85,
+                "y": 195.85045423776364,
+                "rot": 180,
+                "centerX": 0,
+                "centerY": 294,
+                "offRot": -90,
+                "size": {
+                  "width": 1,
+                  "height": 1,
+                  "widthBase": 1,
+                  "heightBase": 1
+                },
+                "elevation": {
+                  "flags": {},
+                  "elevation": 0
+                }
+              },
+              "unlocked": true
+            }
+          },
+          "actorId": "Sy5MvaCoAhAZQpF9",
+          "hidden": false,
+          "sort": -2,
+          "shape": 0,
+          "_id": "29TvTwJuzoccBF9C",
+          "delta": {
+            "_id": "29TvTwJuzoccBF9C",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 1955,
+          "y": 1472,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "actorLink": true,
+          "name": "Transfer Station",
+          "displayName": 50,
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "systems/foundry-ironsworn/assets/locations/settlement-orbital.webp",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 2,
+            "scaleY": 2,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "lockRotation": false,
+          "rotation": 270,
+          "alpha": 1,
+          "disposition": 0,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {
+            "token-attacher": {
+              "attached": {
+                "Token": [
+                  "29TvTwJuzoccBF9C",
+                  "iez9OlRTtTO9vSDC",
+                  "NgNYllXlWCKzfVjc",
+                  "ScBnkQnXEI02WwV4"
+                ]
+              },
+              "pos": {
+                "base_id": "C3Odw3UWEQy0b9MP",
+                "xy": {
+                  "x": 1955,
+                  "y": 1178
+                },
+                "center": {
+                  "x": 2040,
+                  "y": 1276.1495457622364
+                },
+                "rotation": 270,
+                "hidden": false,
+                "elevation": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          },
+          "actorId": "1df5DnmEaFPNfUlp",
+          "hidden": false,
+          "sort": 4,
+          "shape": 0,
+          "_id": "C3Odw3UWEQy0b9MP",
+          "delta": {
+            "_id": "C3Odw3UWEQy0b9MP",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 1955,
+          "y": 1178,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "actorLink": true,
+          "name": "Lower City",
+          "displayName": 50,
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "systems/foundry-ironsworn/assets/locations/settlement-planetside.webp",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 2,
+            "scaleY": 2,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "lockRotation": false,
+          "rotation": 90,
+          "alpha": 1,
+          "disposition": 0,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {
+            "token-attacher": {
+              "parent": "C3Odw3UWEQy0b9MP",
+              "offset": {
+                "x": 425,
+                "y": 195.85045423776364,
+                "rot": 90,
+                "centerX": 510,
+                "centerY": 294,
+                "offRot": -180,
+                "size": {
+                  "width": 1,
+                  "height": 1,
+                  "widthBase": 1,
+                  "heightBase": 1
+                },
+                "elevation": {
+                  "flags": {},
+                  "elevation": 0
+                }
+              },
+              "unlocked": true
+            }
+          },
+          "actorId": "qMb2MU5nIKSin2Wp",
+          "hidden": false,
+          "sort": -1,
+          "shape": 0,
+          "_id": "iez9OlRTtTO9vSDC",
+          "delta": {
+            "_id": "iez9OlRTtTO9vSDC",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 2465,
+          "y": 1472,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "name": "Bernadette Mccrae",
+          "displayName": 50,
+          "disposition": 0,
+          "actorLink": true,
+          "texture": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "icons/svg/mystery-man.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "width": 1,
+          "height": 1,
+          "lockRotation": false,
+          "rotation": 0,
+          "alpha": 1,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "jucxAFSgYoGpb3xp",
+          "hidden": false,
+          "sort": 7,
+          "shape": 0,
+          "_id": "tMZ6CHcsKsnlD8gq",
+          "delta": {
+            "_id": "tMZ6CHcsKsnlD8gq",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 1445,
+          "y": 2061,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "name": "Christian Reese",
+          "displayName": 50,
+          "disposition": 0,
+          "actorLink": true,
+          "texture": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "icons/svg/mystery-man.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "width": 1,
+          "height": 1,
+          "lockRotation": false,
+          "rotation": 0,
+          "alpha": 1,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "7jdpM3PaEP3W4S6L",
+          "hidden": false,
+          "sort": 8,
+          "shape": 0,
+          "_id": "HGMJxOd35WHCTwOU",
+          "delta": {
+            "_id": "HGMJxOd35WHCTwOU",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 1955,
+          "y": 2061,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "name": "Finnian Styles",
+          "displayName": 50,
+          "disposition": 0,
+          "actorLink": true,
+          "texture": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "icons/svg/mystery-man.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "width": 1,
+          "height": 1,
+          "lockRotation": false,
+          "rotation": 0,
+          "alpha": 1,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "eIP2KMJaBqYqBYu5",
+          "hidden": false,
+          "sort": 9,
+          "shape": 0,
+          "_id": "OWhcl9yjZ653qhqI",
+          "delta": {
+            "_id": "OWhcl9yjZ653qhqI",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 2465,
+          "y": 2061,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "displayName": 0,
+          "disposition": 0,
+          "actorLink": true,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 0,
+          "name": "Rimward Marker",
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/square.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "C8s1DYZAkpQof44m",
+          "hidden": false,
+          "sort": 10,
+          "shape": 0,
+          "_id": "J0XijClc3zKOCMnk",
+          "delta": {
+            "_id": "J0XijClc3zKOCMnk",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 3995,
+          "y": 2061,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "displayName": 0,
+          "disposition": 0,
+          "actorLink": true,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 1,
+          "name": "Coreward Marker",
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/square.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "Wj8XFl9nt5vV9V7a",
+          "shape": 4,
+          "delta": {
+            "_id": "ENyykOo4n6VEA3L3",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 1615,
+          "y": 0,
+          "elevation": 0,
+          "sort": 0,
+          "locked": false,
+          "hidden": false,
+          "_movementHistory": [],
+          "_regions": [],
+          "_id": "ENyykOo4n6VEA3L3"
+        },
+        {
+          "displayName": 0,
+          "disposition": 0,
+          "actorLink": true,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 1,
+          "name": "Spinward Marker",
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/square.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "9GYRBkHggwGPoPhl",
+          "hidden": false,
+          "sort": 11,
+          "shape": 0,
+          "_id": "l0bAuelSOk9Fa8I6",
+          "delta": {
+            "_id": "l0bAuelSOk9Fa8I6",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 0,
+          "y": 1325,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        },
+        {
+          "displayName": 50,
+          "disposition": 0,
+          "actorLink": true,
+          "lockRotation": true,
+          "rotation": 0,
+          "alpha": 0,
+          "name": "Stygian Wall",
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/square.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "Wj8XFl9nt5vV9V7a",
+          "shape": 4,
+          "delta": {
+            "_id": "Npy1GbSUVUyrSBV4",
+            "system": {},
+            "flags": {},
+            "name": null,
+            "type": null,
+            "img": null,
+            "items": [],
+            "effects": [],
+            "ownership": null
+          },
+          "x": 1275,
+          "y": 294,
+          "elevation": 0,
+          "sort": 0,
+          "locked": false,
+          "hidden": false,
+          "_movementHistory": [],
+          "_regions": [],
+          "_id": "Npy1GbSUVUyrSBV4"
+        },
+        {
+          "actorLink": true,
+          "name": "Anchorhold Shipping",
+          "displayName": 50,
+          "width": 1,
+          "height": 1,
+          "texture": {
+            "src": "modules/starforged-custom-oracles/assets/dark-squad.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "lockRotation": true,
+          "rotation": 270,
+          "alpha": 1,
+          "disposition": 0,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "light": {
+            "negative": false,
+            "priority": 0,
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "occludable": {
+            "radius": 0
+          },
+          "ring": {
+            "enabled": false,
+            "colors": {
+              "ring": null,
+              "background": null
+            },
+            "effects": 0,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "turnMarker": {
+            "mode": 1,
+            "animation": null,
+            "src": null,
+            "disposition": false
+          },
+          "movementAction": null,
+          "flags": {},
+          "actorId": "psIBXEB2CeUVb8TN",
+          "hidden": false,
+          "sort": 12,
+          "shape": 0,
+          "_id": "umf3VCxygizOFK2s",
+          "delta": {
+            "_id": "umf3VCxygizOFK2s",
+            "name": null,
+            "type": null,
+            "img": null,
+            "system": {},
+            "items": [],
+            "effects": [],
+            "ownership": null,
+            "flags": {}
+          },
+          "x": 2975,
+          "y": 2061,
+          "elevation": 0,
+          "locked": false,
+          "_movementHistory": [],
+          "_regions": []
+        }
+      ],
+      "lights": [],
+      "notes": [
+        {
+          "entryId": "ktmt3arhL73fXIHY",
+          "pageId": "JAZnBHwocLkCoviN",
+          "global": true,
+          "x": 1190,
+          "y": 2159,
+          "elevation": 0,
+          "sort": 0,
+          "iconSize": 80,
+          "texture": {
+            "tint": "#ffffff",
+            "src": "icons/svg/book.svg",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "contain",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "alphaThreshold": 0
+          },
+          "text": "Wind City: Starforged Sector Starter",
+          "fontFamily": "Signika",
+          "fontSize": 32,
+          "textColor": "#ffffff",
+          "textAnchor": 1,
+          "_id": "Xa2KgXhlkSfn1f5m",
+          "flags": {}
+        }
+      ],
+      "sounds": [],
+      "regions": [],
+      "templates": [],
+      "tiles": [],
+      "walls": [],
+      "playlist": null,
+      "playlistSound": null,
+      "journal": "ktmt3arhL73fXIHY",
+      "journalEntryPage": "JAZnBHwocLkCoviN",
+      "weather": "",
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": "Scene.Icoz9Zv4bBAJogNt",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103785,
+        "modifiedTime": 1786659115275,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      },
+      "navName": "",
+      "ownership": {
+        "default": 0
+      },
+      "active": false
+    }
+  ],
+  "tables": [],
+  "macros": [],
+  "cards": [],
+  "playlists": [],
+  "folders": [
+    {
+      "type": "Actor",
+      "folder": null,
+      "name": "Wind City",
+      "color": null,
+      "sorting": "a",
+      "_id": "JXNzyQaeudnK5c3W",
+      "description": "",
+      "sort": 600000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103804,
+        "modifiedTime": 1786659103804,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      }
+    },
+    {
+      "type": "Actor",
+      "folder": "JXNzyQaeudnK5c3W",
+      "name": "Outlands",
+      "color": null,
+      "sorting": "a",
+      "_id": "AMFAntUbK7RPo0y7",
+      "description": "",
+      "sort": 100000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "name": "Watson's Anchorage",
+      "type": "Actor",
+      "folder": "AMFAntUbK7RPo0y7",
+      "_id": "8p2mK4gj1PgbpYXG",
+      "description": "",
+      "sorting": "a",
+      "sort": 100000,
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "name": "Cirrus",
+      "type": "Actor",
+      "folder": "8p2mK4gj1PgbpYXG",
+      "_id": "UUS1I4ywamQURp8j",
+      "description": "",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "type": "JournalEntry",
+      "folder": null,
+      "name": "Wind City",
+      "color": null,
+      "sorting": "a",
+      "_id": "ekcDAKdYn4Hvw383",
+      "description": "",
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103804,
+        "modifiedTime": 1786659103804,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      }
+    },
+    {
+      "type": "JournalEntry",
+      "folder": "ekcDAKdYn4Hvw383",
+      "name": "Outlands",
+      "color": null,
+      "sorting": "a",
+      "_id": "VDQNQOIfcEvdh3O3",
+      "description": "",
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "name": "Outlands",
+      "type": "Scene",
+      "folder": "UNcMbrs6ZVNdBzU7",
+      "_id": "5gXRFNlk1jlitOmo",
+      "description": "",
+      "sorting": "a",
+      "sort": 100000,
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "type": "Scene",
+      "folder": null,
+      "name": "Wind City",
+      "color": null,
+      "sorting": "a",
+      "_id": "UNcMbrs6ZVNdBzU7",
+      "description": "",
+      "sort": 400000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Folder.UNcMbrs6ZVNdBzU7",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1786659103804,
+        "modifiedTime": 1786659103804,
+        "lastModifiedBy": "hAGxVL8rnq3c04PC"
+      }
+    }
+  ],
+  "_id": "eEQyRYPlSFCBgbqj",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.0",
+    "createdTime": 1786350066298,
+    "modifiedTime": 1787523178552,
+    "lastModifiedBy": "hAGxVL8rnq3c04PC"
+  },
+  "_key": "!adventures!eEQyRYPlSFCBgbqj"
+}

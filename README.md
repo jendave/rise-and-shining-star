@@ -1,63 +1,64 @@
-# Rise & Shiningstar - An Adventure for Ironsworn: Starforged
+# Starforged Adventures
 
-![GitHub all releases](https://img.shields.io/github/downloads/jendave/rise-and-shiningstar/total)
-[![Latest Version](https://img.shields.io/github/v/release/jendave/rise-and-shiningstar?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/rise-and-shiningstar/releases/latest)
-![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Frise-and-shiningstar%2Fmain%2Fmodule.json)
+![GitHub all releases](https://img.shields.io/github/downloads/jendave/starforged-adventures/total)
+[![Latest Version](https://img.shields.io/github/v/release/jendave/starforged-adventures?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starforged-adventures/releases/latest)
+![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarforged-adventures%2Fmain%2Fmodule.json)
+
+Adventures for [Ironsworn: Starforged](https://tomkinpress.com/) to launch your campaign.
+
+> NOTE: Renamed from [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star) to [Starforged Adventures for Ironsworn: Starforged](https://foundryvtt.com/packages/starforged-adventures).
+
+## Adventures
+
+* [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://github.com/jendave/starforged-adventures/rise-and-shiningstar.md)
 
 > You have been called to a settlement known as Shiningstar, whether to answer a distress call, find a missing person, or strange visions beckon you. Whatever the case, upon your arrival, you discover that Shiningstar—the settlement that focused on healing and life—has taken a turn for the worse.
->
-> I must warn you, though. If you keep going, you're going to encounter death. Lots of it. None of it is pretty. Most of it is sad. It's what the kids these days call "nightmare fuel."
->
-> And it will fight back.
 
-Ever need a quick adventure to introduce new players to [Ironsworn:Starforged](https://tomkinpress.com/)? Need something to drop into a current campaign to get things moving along?
+* [Wind City: Starforged Sector Starter](https://github.com/jendave/starforged-adventures/wind-city.md)
 
-Just wanna try out a new character and see how they play?
-
-Well, I've got the solution for you: a quick and easy one-shot! Rise & Shiningstar was made for pretty much all the reasons above, and probably a few more I don't know about. It's built to allow as much creative freedom in the adventure as possible, while still providing a fully fleshed-out adventure that doesn't require you to plan ahead or interpret every vague oracle result. Mix and match, drag and drop, plug and play as much as you want.
-
-In terms of XP, this adventure allows you to complete one Vow and up to two Expeditions, as well as a chance to use multiple Connection Moves. There's also plenty of room for combat, or you can avoid or ignore it entirely.
-
-Within this game-ready adventure, you will find new foes, journal entries, items and rollable tables.
-
-An [Ironsworn:Starforged](https://tomkinpress.com/) Adventure Module by [Tavon Gatling](https://www.gatling.xyz/author/tavon/).
-
-* [Free website version](https://www.gatling.xyz/rise-and-shiningstar/)
-* [Download PDF version](https://ko-fi.com/s/4917995151)
-* [Buy the author a coffee](https://ko-fi.com/gatlingxyz)
+> **Wind City** is a two-page sector starter for Ironsworn: Starforged, built for a quick start of play, whether starting a new campaign or navigating to a new sector in an established campaign. Notable locations, factions, and NPCs provide a focused location with tensions already in motion: a labor dispute moving towards a boiling point, a smuggler's growing ambitions, and a principal engineer with a secret that could see the city fall.
 
 ## Module Installation
 
-To install the module, click on `Install Module` and search for `rise shiningstar` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.
+To install the module, click on `Install Module` and search for `Starforged Adventures` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.
 
 Or use this URL and click on `Install`:
 
 ```bash
-https://github.com/jendave/rise-and-shiningstar/releases/latest/download/module.json
+https://github.com/jendave/starforged-adventures/releases/latest/download/module.json
 ```
 
-### Install Adventure Module
+## Adventure Installation
 
-## Quickstart Adventure
+### Quickstart Adventure (FoundryVTT v14)
 
 * In the Admin screen, on the `Game World` tab, click on `Create World`.
-* Choose `Rise & Shiningstar` from the left clumn of Adventures.
+* Choose `Starforged Adventures` from the left column of Adventures.
 * Choose `Ironsworn & Starforged` from the list of systems on the right.
 * Give you world a name in the `World Title` field.
 * Click `Continue`.
-* The world will start with the `Rise & Shiningstar` adventure installed.
+* The world will start with the all `Starforged Adventures` adventures installed.
 
 ## Manual Installation
 
 * Start your World.
-* Open the `Rise & Shiningstar` compendium.
-* Open the `Rise & Shiningstar` adventure.
+* Enable the `Starforged Adventures` module.
+* Open the `Starforged Adventures` compendium.
+* Open an adventure of your choice.
 * Click on `Import Adventure`.
 * New actors, items, rollable tables, and journal entries will be added to FoundryVTT.
 
+## Required Modules
+
+* The following modules and their dependencies will be installed
+  * [JB2A - Jules & Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e)
+  * [Sequencer](https://foundryvtt.com/packages/sequencer)
+  * [Token Attacher](https://foundryvtt.com/packages/token-attacher)
+  * [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
+
 ## Troubleshooting and Tips
 
-* If the *Rise & Shiningstar* scene has a broken thumbnail, right-click on the menu item and select `Generate Thumbnail Image`.
+* If a scene has a broken thumbnail, right-click on the menu item and select `Generate Thumbnail Image`.
 
 ## Contact
 
@@ -70,6 +71,7 @@ https://github.com/jendave/rise-and-shiningstar/releases/latest/download/module.
 ## Credits
 
 * [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) by [Tavon Gatling](https://www.gatling.xyz/author/tavon/) used with permission from the author.
+* [Wind City: Starforged Sector Starter](https://rewritable.itch.io/wind-city) by [Rewritable](https://rewritable.itch.io) is licensed under the CC BY 4.0.
 * Module code by David Hudson and licensed for use under the use under the [MIT license](https://opensource.org/license/mit/).
 
 ## Acknowledgements
@@ -97,7 +99,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn)
 * [VOID 1680 AM for FoundryVTT](https://foundryvtt.com/packages/void-1680-am)
 * [Ancient Wonders](https://foundryvtt.com/packages/ancient-wonders)
-* [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
+* [Starforged Adventures](https://foundryvtt.com/packages/starforged-adventures)
 * [Roll Table Importer](https://foundryvtt.com/packages/roll-table-importer)
 * [Ironsworn Impacts](https://foundryvtt.com/packages/ironsworn-impacts)
 
