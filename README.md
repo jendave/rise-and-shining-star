@@ -48,6 +48,8 @@ Though written for Starforged, the sector starter is easily portable to most sci
 
 *Touchstones: The Outer Worlds' Murder on Eridanos, with notes of Freelancer and Mass Effect.*
 
+![Screenshot](https://github.com/jendave/starforged-adventures/blob/main/docs/wall-city-sector.jpg?raw=true)
+
 ---
 
 The PDF by [rewritable](https://rewritable.itch.io) can be found at [https://rewritable.itch.io/wind-city](https://rewritable.itch.io/wind-city) and is licensed under the CC BY 4.0.
