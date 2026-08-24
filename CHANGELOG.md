@@ -4,14 +4,14 @@
 
 ## [2.0.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-07-10)
 
-* Renamed project from [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star) to [Starforged Adventures for Ironsworn: Starforged](https://foundryvtt.com/packages/starforged-adventures).
-.
+* Renamed project from [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star) to *Starforged Adventures*.
 * Added new adventure: [Wind City: Starforged Sector Starter](https://github.com/jendave/starforged-adventures/wind-city.md).
 * Module now has dependencies.
   * [JB2A - Jules & Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e)
   * [Sequencer](https://foundryvtt.com/packages/sequencer)
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher)
   * [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
+  * [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
 ## [1.1.1](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-07-10)
 

@@ -6,7 +6,7 @@
 
 Adventures for [Ironsworn: Starforged](https://tomkinpress.com/) to launch your campaign.
 
-> NOTE: Renamed from [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star) to [Starforged Adventures for Ironsworn: Starforged](https://foundryvtt.com/packages/starforged-adventures).
+> NOTE: Renamed from [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star) to *Starforged Adventures*.
 
 ## Adventures
 
@@ -55,6 +55,7 @@ https://github.com/jendave/starforged-adventures/releases/latest/download/module
   * [Sequencer](https://foundryvtt.com/packages/sequencer)
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher)
   * [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
+  * [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
 ## Troubleshooting and Tips
 
