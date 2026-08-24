@@ -10,11 +10,11 @@ Adventures for [Ironsworn: Starforged](https://tomkinpress.com/) to launch your 
 
 ## Adventures
 
-* [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://github.com/jendave/starforged-adventures/rise-and-shiningstar.md)
+* [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://github.com/jendave/starforged-adventures/blob/main/docs/rise-and-shiningstar.md)
 
 > You have been called to a settlement known as Shiningstar, whether to answer a distress call, find a missing person, or strange visions beckon you. Whatever the case, upon your arrival, you discover that Shiningstar—the settlement that focused on healing and life—has taken a turn for the worse.
 
-* [Wind City: Starforged Sector Starter](https://github.com/jendave/starforged-adventures/wind-city.md)
+* [Wind City: Starforged Sector Starter](https://github.com/jendave/starforged-adventures/blob/main/docs/wind-city.md)
 
 > **Wind City** is a two-page sector starter for Ironsworn: Starforged, built for a quick start of play, whether starting a new campaign or navigating to a new sector in an established campaign. Notable locations, factions, and NPCs provide a focused location with tensions already in motion: a labor dispute moving towards a boiling point, a smuggler's growing ambitions, and a principal engineer with a secret that could see the city fall.
 
