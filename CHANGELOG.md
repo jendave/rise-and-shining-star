@@ -2,7 +2,7 @@
 
 [Starforged Adventures](https://foundryvtt.com/packages/starforged-adventures)
 
-## [2.0.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-08-123)
+## [2.0.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-08-23)
 
 * Renamed project from [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star) to *Starforged Adventures*.
 * Added new adventure: [Wind City: Starforged Sector Starter](https://github.com/jendave/starforged-adventures/wind-city.md).
